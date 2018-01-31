@@ -40,7 +40,6 @@ p{
 }
 div.carousel-caption a.btn-primary{
 	width: 225px;
-
     line-height: 50px;
     background-image: none;
     border-radius: 15px;
@@ -121,7 +120,7 @@ nav .nav-second-level{
 }
 
 .carousel-inner{
-	height:400px;
+	max-height:400px;
 }
 
 .carousel-inner img{
