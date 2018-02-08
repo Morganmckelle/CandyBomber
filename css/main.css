@@ -269,9 +269,18 @@ footer div.contact-items a:hover{
 
     .quicklinks img{
         width: 75%;
-        max-height: auto;
+        max-height: 100%;
     }
     .footer div.contact-items{
         margin-top: 40px;
     }
+	div.quicklinksection{
+		padding-bottom:50px;
+	}
+}
+
+@media only screen and (max-width: 700px) {
+	#carousel-example-generic{
+		display:none;
+	}	
 }
