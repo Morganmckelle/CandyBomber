@@ -262,6 +262,8 @@ footer div.contact-items a:hover{
 
 
 /* Mobile Styles */
+
+/* md break point and down*/
 @media only screen and (max-width: 991px) {
     .action-bar {
         padding: 30px;
@@ -279,8 +281,49 @@ footer div.contact-items a:hover{
 	}
 }
 
-@media only screen and (max-width: 700px) {
-	#carousel-example-generic{
-		display:none;
-	}	
+
+/* 701px and up*/
+@media only screen and (min-width: 768px) {
+    .mobileJumbotron{
+        display: none;
+    }
+}
+
+/* 700px and down*/
+@media only screen and (max-width: 767px) {
+
+    .nav-first-level{
+        padding: 20px;
+    }
+
+    .navbar-brand{
+        margin-top: -30px;
+    }
+
+    .navbar-nav{
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+
+    #carousel-example-generic{
+        display:none;
+    }
+
+    .mobileJumbotron{
+        display: block;
+        background-image: url("../img/sepia-plane.png");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        height:300px;
+    }
+    .mobileJumbotron h2{
+        width: 100%;
+        margin-top: 100px;
+        color: white;
+        text-align: center;
+        padding:20px;
+        font-weight: 400;
+    }
+
 }
