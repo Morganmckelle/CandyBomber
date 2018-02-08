@@ -256,6 +256,24 @@ footer div.contact-items a:hover{
     text-decoration: none;
 }
 
+footer div.socialIcons{
+    padding:20px;
+}
+footer div.socialIcons div.socialImg{
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    margin: 0 auto;
+    display: block;
+    border-radius: 50%;
+    background-color: #00A0E6;
+    cursor: pointer;
+}
+footer div.socialIcons div.socialImg:hover{
+    background-color: white;
+    color: #00A0E6;
+}
+
 
 .vertical-line{
     height: 30px;
