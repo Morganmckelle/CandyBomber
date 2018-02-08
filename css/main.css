@@ -3,6 +3,11 @@
    ========================================================================== */
 
 /*-- Global --*/
+* {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
 body {
     font-family: "Helvetica Neue", sans-serif;
 }
@@ -282,15 +287,37 @@ footer div.contact-items a:hover{
 }
 
 
-/* 701px and up*/
+/* sm and up*/
 @media only screen and (min-width: 768px) {
     .mobileJumbotron{
         display: none;
     }
 }
 
-/* 700px and down*/
+/* sm and down*/
 @media only screen and (max-width: 767px) {
+
+    .navbar-default .navbar-toggle{
+        background-color: white;
+        border: 1px solid #00A0E6;
+        transition: background-color .3s ease-in-out;
+    }
+
+    .navbar-default .navbar-toggle:focus{
+        background-color: transparent;
+    }
+    .navbar-default .navbar-toggle:hover{
+        background-color: #00A0E6 !important;
+    }
+
+    .navbar-default .navbar-toggle .icon-bar{
+        background-color: #00A0E6;
+        transition: background-color .3s ease-in-out;
+    }
+
+    .navbar-default .navbar-toggle:hover .icon-bar{
+        background-color: white;
+    }
 
     .nav-first-level{
         padding: 20px;
