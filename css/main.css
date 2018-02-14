@@ -81,6 +81,17 @@ div.image img{
 	padding-right:0;
 }
 
+/* Headers */
+.blueHeader{
+    font-size: 24px;
+    color: #00A0E6;
+}
+
+.header2{
+    color: #95989A;
+}
+
+
 /* Slider Carousel */
  div.carousel-caption{
 	background-color: rgba(0, 160, 230, .5);
@@ -128,9 +139,7 @@ div.carousel-caption a.btn-primary{
 	text-align:center;
 	margin: 30px;
 }
-.header2{
-	color: #95989A;
-}
+
 /*-- Navigation --*/
 nav.navbar{
     margin-bottom: 0;
@@ -236,10 +245,6 @@ nav .nav-second-level{
 }
 
 
-
-
-
-
 /* Blue Section */
 .sub-section{
     background-color: #00A0E6;
@@ -262,9 +267,56 @@ nav .nav-second-level{
 /* Black Section */
 .black-section{
     background-color: #222;
-    
     padding: 30px;
 }
+
+
+
+
+/* About Page */
+.img-content-right-container{
+    margin: 70px auto 50px auto;
+    max-width: 500px;
+    display: block;
+}
+
+
+
+/* Contact Page */
+.contactForm{
+    margin-bottom: 100px;
+}
+
+.contactForm form{
+    float: none;
+}
+
+.contactInput{
+    background-color: #ddd;
+    border-radius: 8px;
+    border: 1px solid #95989A;
+    height: 30px;
+
+}
+
+.submitBtn{
+    margin: 0 auto;
+    display: block;
+    width: 300px;
+    height: 45px;
+    font-size: 24px;
+    background-color: white;
+    border: 1px solid #00A0E6;
+    color: #00A0E6;
+    transition: background-color .3s ease-in-out, color .3s ease-in-out;
+}
+
+.submitBtn:hover{
+    background-color: #00A0E6;
+    color: white;
+}
+
+
 
 
 
@@ -331,8 +383,6 @@ footer div.socialIcons div.socialImg:hover{
     width: 1px;
     background-color: white;
 }
-
-
 
 
 /* Mobile Styles */
