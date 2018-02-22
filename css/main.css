@@ -299,7 +299,12 @@ nav .nav-second-level{
     float: right;
 }
 
+.board-members-header-left{
+    text-align: left;
+}
+
 .board-members-header-right{
+    text-align: right;
     float: right;
 }
 
@@ -424,8 +429,13 @@ footer div.socialIcons div.socialImg:hover{
         max-height: 100%;
     }
 
+    .board-members-header-left{
+        text-align: center;
+    }
+
     .board-members-header-right{
         float: none;
+        text-align: center;
     }
 
     .img-circle-right{
