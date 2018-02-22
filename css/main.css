@@ -244,7 +244,6 @@ nav .nav-second-level{
     display: block;
 }
 
-
 /* Blue Section */
 .sub-section{
     background-color: #00A0E6;
@@ -280,6 +279,30 @@ nav .nav-second-level{
     display: block;
 }
 
+
+/* Board Members */
+
+.content-line{
+    height:1px;
+    background-color: #333;
+    margin: 25px auto;
+}
+
+.img-circle-left{
+    padding: 25px;
+}
+.img-circle-right{
+    padding: 25px;
+    float: right;
+}
+
+.board-members-header-right{
+    float: right;
+}
+
+.board-members-text{
+    margin-bottom: 50px;
+}
 
 
 /* Contact Page */
@@ -397,6 +420,15 @@ footer div.socialIcons div.socialImg:hover{
         width: 75%;
         max-height: 100%;
     }
+
+    .board-members-header-right{
+        float: none;
+    }
+
+    .img-circle-right{
+        float: none;
+    }
+
     .footer div.contact-items{
         margin-top: 40px;
     }
