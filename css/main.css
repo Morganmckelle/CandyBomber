@@ -190,6 +190,28 @@ a.btn-primary.btn-sm.AboutButton:hover{
 	color:#00A0E6;
 	background-color:#ffffff;
 }
+a.btn-primary.btn-sm.AboutButtonBlue{
+	 width: 163px;
+    height: 27px;
+    line-height: 27px;
+    background-image: none;
+    border-radius: 8px ;
+    color:#ffffff;
+	border:0px;
+	background-color:#00A0E6;
+    text-shadow: none;
+    padding: 0;
+    font-size: 14px;
+}
+a.btn-primary.btn-sm.AboutButtonBlue:hover{
+	color: #00A0E6;
+	background-color: transparent;
+	
+	border:1px solid #00A0E6;
+}
+div.col-md-4.videos{
+	text-align:center;
+}
 div.buttoncenter{
 	text-align:center;
 	margin:0 auto;
