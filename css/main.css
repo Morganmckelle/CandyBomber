@@ -62,6 +62,9 @@ div.aboutsections .col-md-2{
 	
 	
 }
+div.aboutoverviewimage img{
+	height:300px;
+}
 
 div.image{
 	text-align:center;
