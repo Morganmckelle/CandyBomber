@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c6504114-864b-411d-92ae-fa16b81eadb6" name="wordpress_candyBomber" url="http://thecandybomber.mojodesignworks.com">
+        <fileTransfer host="thecandybomber.mojodesignworks.com" port="21" rootFolder="/public_html/thecandybomber">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

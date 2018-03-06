@@ -373,6 +373,25 @@ nav .nav-second-level{
 }
 
 
+
+
+
+
+
+
+/* Contribute Page */
+
+.contribute-donate-btn{
+    background-color: white;
+    color: #00A0E6;
+    border: 1px solid #00A0E6;
+}
+.contribute-donate-btn:hover{
+    background-color: #00A0E6;
+    color: white;
+}
+
+
 /* Contact Page */
 .contactForm{
     margin-bottom: 100px;
@@ -474,6 +493,15 @@ footer div.socialIcons div.socialImg:hover{
     width: 1px;
     background-color: white;
 }
+
+
+
+
+
+
+
+
+
 
 
 /* Mobile Styles */
