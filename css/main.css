@@ -28,7 +28,9 @@ padding-right: 0px;
 p{
     font-size: 16px;
 }
-
+div.banner{
+	height:400px;
+}
 
 div.banner img{
 	width: 100%;
@@ -51,9 +53,13 @@ div.aboutsections .col-md-10{
 	border-bottom:1px solid #BDBDBD;
 	
 }
+div.aboutsections .col-md-9{
+	border-bottom:1px solid #BDBDBD;
+}
 div.aboutsections .col-md-2{
 	text-align:right;
 	color:#00A0E6;
+	
 	
 }
 
@@ -66,22 +72,50 @@ div.about{
 div.aboutsections .col-md-2.left{
 	text-align:left;
 }
+div.aboutsections .col-md-2.leftshrink{
+	text-align:left;
+	color: #00A0E6;
+}
+div.aboutsections .col-md-2.leftshrink h3{
+	font-size: 18px;
+
+}
 div.col-md-8.aboutsectionbodyright{
 	text-align:right;
 	padding-right:0;
 	padding-left:0;
 }
-div.image img{
+div.imageleft img{
 	border-radius:100%;
 	margin:0 auto;
 	padding-top:20px;
+	width:250px;
+	float:left;
+}
+div.imageright img{
+	border-radius:100%;
+	margin:0 auto;
+	padding-top:20px;
+	width:250px;
+	float:right;
+}
+div.aboutsectionimage img{
+	max-width: 400px; 
+	margin: 0 auto; 
+	display: block;
+	width:250px;
 }
 .aboutsectionbody{
 	padding-top:20px;
-	padding-left:0;
+	padding-left:15px;
 	padding-right:0;
 }
-
+div.aboutsections{
+	margin:50px;
+}
+div.aboutsections h3{
+	font-size: 20px;
+}
 /* Headers */
 .blueHeader{
     font-size: 24px;
@@ -135,6 +169,27 @@ div.carousel-caption a.btn-primary{
 .btn-primary:hover{
     background-color: rgba(34, 34, 34, .5);
     border: 1px solid white;
+}
+a.btn-primary.btn-sm.AboutButton{
+	 width: 163px;
+    height: 27px;
+    line-height: 27px;
+    background-image: none;
+    border-radius: 8px ;
+	border-color:#ffffff;
+    background-color: transparent;
+    color: white;
+    text-shadow: none;
+    padding: 0;
+    font-size: 14px;
+}
+a.btn-primary.btn-sm.AboutButton:hover{
+	color:#00A0E6;
+	background-color:#ffffff;
+}
+div.buttoncenter{
+	text-align:center;
+	margin:0 auto;
 }
 .mission{
 	text-align:center;
@@ -255,10 +310,15 @@ nav .nav-second-level{
     color: white;
 	font-size:24px;
 }
+.sub-section h3{
+    color: white;
+	font-size:20px;
+}
 
 .sub-section img{
     padding: 20px;
-	width:75%
+	width:75%;
+	
 }
 
 .sub-section p{
