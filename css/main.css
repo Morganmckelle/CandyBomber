@@ -349,6 +349,7 @@ nav .nav-second-level{
 .sub-section p{
     color: white;
     padding: 20px;
+	text-align:center;
 }
 
 /* Black Section */
