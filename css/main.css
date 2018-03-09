@@ -16,7 +16,7 @@
     border: none; /* Remove borders */
     outline: none; /* Remove outline */
     background-color:rgba(0,0,0, .3); /* Set a background color */
-	border:1px solid black;
+	
     color: white; /* Text color */
     cursor: pointer; /* Add a mouse pointer on hover */
     padding: 15px; /* Some padding */
