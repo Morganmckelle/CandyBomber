@@ -39,7 +39,7 @@ div.banner img{
 div.bannertitle {
 	background-color: rgba(0, 160, 230, .5);
 	position: relative;
-	width: 80%;
+	width: 85%;
 	text-align: center;
     bottom: 120px;
     left: 0;
@@ -212,9 +212,37 @@ a.btn-primary.btn-sm.AboutButtonBlue:hover{
 div.col-md-4.videos{
 	text-align:center;
 }
+div.videos img{
+	padding-bottom:20px;
+}
+div.videos p{
+	margin:0;
+	padding:0;
+}
 div.buttoncenter{
 	text-align:center;
 	margin:0 auto;
+}
+div.activities{
+	text-align:center;
+}
+div.activities .filter.hdpe{
+	padding-bottom:60px;
+}
+div.activities img{
+	margin-bottom:20px;
+	border:1px solid #000000;
+}
+button.gallery {
+   background-color: #ffffff;
+   border: #00A0E6 1px solid;
+   width: 95%;
+   height: 60px;
+   margin-top: 20px;
+   margin-bottom: 70px;
+   font-color: #00A0E6 !important;
+   font-weight: bold;
+   font-size: 18px;
 }
 .mission{
 	text-align:center;
