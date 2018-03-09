@@ -270,6 +270,9 @@ nav .nav-second-level{
     text-shadow: none;
 
 }
+.navbar-nav li a{
+	padding:10px 15px 10px 0px;
+}
 
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover{
     color: #ffffff;
@@ -357,6 +360,9 @@ nav .nav-second-level{
 .sub-section{
     background-color: #00A0E6;
     padding: 30px;
+}
+div.sub-section .mainpage p{
+	text-align:left;
 }
 
 .sub-section h2{
