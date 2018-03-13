@@ -160,7 +160,7 @@ div.aboutsections h3{
  div.carousel-caption{
 	background-color: rgba(0, 160, 230, .5);
     margin: 0 auto;
-    width: 80%;
+    width: 100%;
     text-align: center;
     position: absolute;
     bottom: 70px;
@@ -294,7 +294,7 @@ nav .nav-second-level{
     color: white;
     font-size: 14px;
     text-shadow: none;
-    padding: 10px;
+    padding: 10px 10px 10px 0px;
 
 }
 .navbar-nav li a{
@@ -324,7 +324,7 @@ nav .nav-second-level{
 }
 
 .carousel-inner{
-	max-height:400px;
+	max-height:450px;
 }
 
 .carousel-inner img{
@@ -679,6 +679,13 @@ footer div.socialIcons div.socialImg:hover{
         margin-top: 0;
         margin-bottom: 0;
     }
+	.navbar-default .navbar-nav>li>a{
+		padding-left:15px;
+	}
+	.navbar-default .navbar-nav>li>a:hover{
+		background-color:white;
+		color:#00A0E6;
+	}
 
    .banner, #carousel-example-generic{
         display:none;

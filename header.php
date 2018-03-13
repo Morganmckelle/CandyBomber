@@ -12,9 +12,11 @@
         <link rel="stylesheet" href="css/bootstrap-theme.min.css">
         <link rel="stylesheet" href="css/main.css">
 		<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+		
         <script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
-
+		
         <script src="js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+		<script src="js/top.js"></script>
     </head>
     <body>
 
@@ -32,7 +34,7 @@
                     <span class="icon-bar"></span>
                 </button>
                 <a class="navbar-brand" href="index.html">
-                    <img src="img/logo_colors_crop.png" alt="Gail S. Halvorsen Aviation Education Foundation Logo"/>
+                    <img src="img/logo/1x/Artboard 1.png" alt="Gail S. Halvorsen Aviation Education Foundation Logo"/>
                 </a>
             </div>
         </div>
@@ -65,3 +67,5 @@
             </div><!-- /.navbar-collapse -->
         </div><!-- /.container-fluid -->
     </nav>
+
+

@@ -1,90 +1,18 @@
-<!doctype html>
-<html class="no-js" lang="">
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title></title>
-
-        <meta name="description" content="">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-		<link type="image/png" rel="icon" href="img/logo/favicon.png" >
-        <link rel="stylesheet" href="css/bootstrap.min.css">
-        <link rel="stylesheet" href="css/bootstrap-theme.min.css">
-        <link rel="stylesheet" href="css/main.css">
-		
-		<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
-		
-        <script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
-		
-        <script src="js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
-		<script src="js/top.js"></script>
-    </head>
-    <body>
+<?php require_once('header.php'); ?>
 
 
-<!--------- NAVIGATION- -------->
-    <nav class="navbar navbar-default">
-		<div class="container">
-        <div class="container nav-first-level">
-            <!-- Brand and toggle get grouped for better mobile display -->
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
-                <a class="navbar-brand" href="index.html">
-                    <img src="img/logo/1x/Artboard 1.png" alt="Gail S. Halvorsen Aviation Education Foundation Logo"/>
-                </a>
-            </div>
-        </div>
-		</div>
-        <div class="nav-second-level">
-            <!-- Collect the nav links, forms, and other content for toggling -->
-            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-				<div class="container">
-                <ul class="nav navbar-nav">
-                    <li>
-                        <a href="about_overview.html">ABOUT</a>
-                    </li>
-                    <li>
-                        <a href="contribute.html">CONTRIBUTE</a>
-                    </li>
-                    <li>
-                        <a href="educators_overview.html">EDUCATORS</a>
-                    </li>
-                    <li>
-                        <a href="#">EVENTS</a>
-                    </li>
-                    <li>
-                        <a href="gail_overview.html">GAIL'S STORY</a>
-                    </li>
-                    <li>
-                        <a href="contact.html">CONTACT</a>
-                    </li>
-                </ul>
-				</div>
-            </div><!-- /.navbar-collapse -->
-        </div><!-- /.container-fluid -->
-    </nav>
-
-
-<!--------- CONTENT --------->
-	
-		
 <div class="container-fluid">
 	
 	
     <!-- Banner Slider -->
- <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+  <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
        <!-- Indicators -->
-      <ol class="carousel-indicators">
+      <!--<ol class="carousel-indicators">
             <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
             <li data-target="#carousel-example-generic" data-slide-to="1"></li>
             <li data-target="#carousel-example-generic" data-slide-to="2"></li>
 
-       </ol>
+       </ol>-->
        <!-- Wrapper for slides -->
 		
      <div class="carousel-inner" role="listbox">
@@ -106,8 +34,7 @@
                  </div>
             </div>
         </div>
-			<a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev"> <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span> <span class="sr-only">Previous</span> </a> 
-   <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next"> <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span> <span class="sr-only">Next</span> </a> 
+			
     </div>
     <!-- Main jumbotron for a primary marketing message or call to action -->
 	<button onclick="topFunction()" id="myBtn" title="Go to top"><i class="fas fa-angle-up"></i>
@@ -220,54 +147,4 @@
 
 </div> <!-- /container -->
 
-      <footer>
-          <div class="container">
-              <div class="row">
-                  <div class="col-sm-4 nav-items">
-                      <div class="col-xs-6">
-                          <a href="about_overview.html"><div>ABOUT</div></a>
-                          <a href="#"><div>EVENTS</div></a>
-                          <a href="gail_overview.html"><div>GAIL'S STORY</div></a>
-                      </div>
-                      <div class="col-xs-6">
-                          <a href="contribute.html"><div>CONTRIBUTE</div></a>
-                          <a href="educators overview.html"><div>EDUCATORS</div></a>
-                          <a href="contact.html"><div>CONTACT</div></a>
-                      </div>
-                      <div class="clearfix"></div>
-                  </div>
-                  <div class="col-sm-8 text-center contact-items">
-                      <h4>Gail S. Halvorsen Aviation Education Foundation</h4>
-                      <hr>
-                      <h5>Feel free to contact us with any questions you have.</h5>
-                      <div class="row">
-                          <a class="col-xs-6 col-sm-4" href="tel:(385) 448-0009"><i class="fas fa-phone-square"></i> (385) 448-0009</a>
-                          <!--<div class="vertical-line col-xs-1"></div>-->
-                          <a class="col-xs-6 col-sm-4" href="mailto: denisehwilliams@gmail.com"> <i class="fas fa-envelope-square"></i> denisehwilliams@gmail.com</a>
-                          <!--<div class="vertical-line col-xs-1"></div>-->
-                          <a class="col-xs-12 col-sm-4" href="https://www.google.com/maps/place/3248+N+Canyon+Rd,+Provo,+UT+84604/data=!4m2!3m1!1s0x874d90627d69373f:0xf8f64974168554c7?sa=X&ved=0ahUKEwiclaiXkYDZAhUE_mMKHZJiAlkQ8gEIKDAA"> <i class="far fa-map"></i> 3248 N Canyon Rd. Provo, UT 84604</a>
-                      </div>
-                      <div class="col-xs-12 socialIcons">
-                          <div class="col-xs-12 text-center">
-                              <a href="https://www.facebook.com/GSHFoundation/"><div class="socialImg"><i class="fab fa-facebook-f"></i></div></a>
-                          </div>
-                          <!--<div class="col-xs-4 text-center">-->
-                              <!--<div class="socialImg"><i class="fab fa-twitter"></i></div>-->
-                          <!--</div>-->
-                          <!--<div class="col-xs-4 text-center">-->
-                              <!--<div class="socialImg"><i class="fab fa-google"></i></div>-->
-                          <!--</div>-->
-                      </div>
-                  </div>
-              </div>
-          </div>
-      </footer>
-
-
-        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.11.2.min.js"><\/script>')</script>
-        <script src="js/vendor/bootstrap.min.js"></script>
-        <script src="js/main.js"></script>
-
-    </body>
-</html>
+<?php require_once('footer.php'); ?>

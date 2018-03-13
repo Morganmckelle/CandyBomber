@@ -1,0 +1,189 @@
+.contmin {
+    max-width: 70%;
+    margin: auto;
+}
+
+#myCarousel {
+  margin-bottom: 4rem;
+  padding-top: 3rem;
+}
+
+.carousel-item {
+  height: 34rem;
+  /*background-color: #bebebe;*/
+  background-color: transparent;
+}
+
+.carousel-control-next, 
+.carousel-control-prev {
+  top: 3rem;
+  width: 10%;
+}
+
+.carousel-caption {
+  height: 10rem;
+  bottom: 2rem;
+  z-index: 10;
+  left: 0;
+  right: 0;
+  padding: 1.25rem 6rem;
+  background-color: rgba(255,255,255, 0.5);
+  color: inherit;
+}
+
+.carousel-caption h1 {
+  font-size: 1.5rem;
+}
+
+.carousel-caption p {
+  font-size: 1rem;
+  line-height: 1.2;
+}
+
+.carousel-caption .btn {
+  font-size: .85rem;
+  line-height: 1.2;
+}
+
+
+/* ---------------------- Breakpoints for the Carousel ---------------------- */
+
+/* --- EXtra small devices like phones - less than 360px --- */
+@media (max-width: 359.9px) {
+  .contmin {
+    max-width: 100%;
+  }
+  .carousel-item {
+    height: 8rem;
+  }
+
+  .carousel-caption {
+      height: 6rem;
+      bottom: .75rem;
+  }
+
+  .carousel-caption h1 {
+    font-size: .85rem;
+    font-weight: bold;
+  }
+  .carousel-caption p {
+    font-size: .6rem;
+    font-weight: bold;
+    line-height: 1;
+  }
+  .carousel-caption .btn {
+    font-size: .5rem;
+    line-height: 1;
+  }
+}
+
+/* --- Small devices like phones - starting at 360px ---*/
+@media (min-width: 360px) {
+  .contmin {
+    max-width: 100%;
+  }
+  .carousel-item {
+    height: 12rem;
+  }
+  .carousel-caption {
+    height: 8rem;
+  }
+}
+
+/* --- Medium devices like tablets - starting at 600px ---*/
+@media (min-width: 600px) {
+  .contmin {
+    max-width: 100%;
+  }
+  .carousel-item {
+    height: 20rem;
+  }
+  .carousel-caption {
+    height: 9rem;
+  }  
+}
+
+/* --- Medium devices like tablets - starting at 758px ---*/
+@media (min-width: 758px) {
+  .contmin {
+    max-width: 90%;
+  }
+  .carousel-item {
+    height: 24rem;
+  }
+  .carousel-caption {
+    height: 10rem;
+  }  
+}
+
+/* --- Tablets, Laptops - starting at 1024px ---*/
+@media (min-width: 1024px) {
+  .contmin {
+    max-width: 90%;
+  }
+  .carousel-item {
+    height: 28rem;
+  }
+}
+
+/* --- Tablets, Laptops - starting at 1280px ---*/
+@media (min-width: 1280px) {
+  .contmin {
+    max-width: 80%;
+  }
+  .carousel-item {
+    height: 32rem;
+  }
+  .carousel-caption {
+    padding-left: 7rem;
+    padding-right: 7rem;
+  }
+}
+
+/* --- Laptops, Desktops - starting at 1366px ---*/
+@media (min-width: 1366px) {
+  .contmin {
+    max-width: 80%;
+  }
+  .carousel-caption {
+    padding-left: 7.5rem;
+    padding-right: 7.5rem;
+  }  
+}
+
+/* --- Desktops - starting at 1536px ---*/
+@media (min-width: 1536px) {
+  .contmin {
+    max-width: 70%;
+  }
+  .carousel-caption {
+    padding-left: 8rem;
+    padding-right: 8rem;
+  }  
+}
+
+/* --- Desktops - starting at 1680px ---*/
+@media (min-width: 1680px) {
+  .contmin {
+    max-width: 70%;
+  }
+  .carousel-caption {
+    padding-left: 8.5rem;
+    padding-right: 8.5rem;
+  }  
+}
+
+/* --- Desktops - starting at 1920px ---*/
+@media (min-width: 1920px) {
+  .contmin {
+    max-width: 60%;
+  }
+  .carousel-caption {
+    padding-left: 9rem;
+    padding-right: 9rem;
+  }  
+}
+
+/* --------------------------- Carousel END --------------------------- */@charset "utf-8";
+/* CSS Document */
+
