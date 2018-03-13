@@ -147,7 +147,7 @@ div.aboutsections h3{
 }
 /* Headers */
 .blueHeader{
-    font-size: 24px;
+    font-size: 20px;
     color: #00A0E6;
 }
 
@@ -434,15 +434,24 @@ div.sub-section .mainpage p{
 
 .content-line{
     height:1px;
-    background-color: #333;
+    background-color: #BDBDBD;
     margin: 25px auto;
 }
 
-.img-circle-left{
-    padding: 25px;
+.img-container{
+    max-width: 394px;
+    margin: 0 auto;
+    display: block;
 }
-.img-circle-right{
-    padding: 25px;
+.img-container img{
+    width: 100%;
+}
+
+.img-container-left{
+    padding: 10px 25px;
+}
+.img-container-right{
+    padding: 10px 25px;
     float: right;
 }
 
@@ -459,6 +468,16 @@ div.sub-section .mainpage p{
     margin-bottom: 50px;
 }
 
+.board-members-img-text{
+    background-color: #00A0E6;
+    width: 100%;
+    color: white;
+    padding: 10px 0;
+}
+
+.board-members-img-text p{
+    text-align: center;
+}
 
 
 
@@ -613,7 +632,7 @@ footer div.socialIcons div.socialImg:hover{
         text-align: center;
     }
 
-    .img-circle-right{
+    .img-container-right{
         float: none;
     }
 
