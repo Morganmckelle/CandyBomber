@@ -84,10 +84,13 @@ div.aboutsections .col-md-9{
 }
 div.aboutsections .col-md-2{
 	text-align:right;
-	color:#00A0E6;
-	
-	
+	color:#00A0E6;	
 }
+div.aboutsections .col-md-5 {
+    text-align:left;
+    color:#00A0E6;
+}
+
 div.aboutoverviewimage img{
 	
 }
@@ -276,6 +279,9 @@ button.gallery {
    font-color: #00A0E6 !important;
    font-weight: bold;
    font-size: 18px;
+}
+div.gallery_product {
+    padding-bottom: 30px;
 }
 .mission{
 	text-align:center;
