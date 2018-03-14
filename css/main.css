@@ -251,6 +251,7 @@ div.videos p{
 	margin:0;
 	padding:0;
 	text-align:center;
+	padding-bottom:20px;
 }
 div.videos h5{
 	text-align:center;
@@ -618,7 +619,9 @@ footer div.socialIcons div.socialImg:hover{
     background-color: white;
 }
 
-
+h3.blueHeader.text-center{
+	margin-bottom:20px;
+}
 
 
 
@@ -685,6 +688,12 @@ footer div.socialIcons div.socialImg:hover{
 	div.overview p{
 	margin-top:0px;
 }
+	div.videos p{
+	margin:0;
+	padding:0;
+	text-align:center;
+	padding-bottom:20px;
+	}
 	.img-container-left{
     padding: 5px 15px;
     
