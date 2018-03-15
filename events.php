@@ -11,27 +11,17 @@
    
 
 
-<div class="container">
-        <div class="mission">
-            <div class="row">
-                <div class="col-sm-12">
-                    <h2 class="header2">Upcoming Events</h2>
-                </div>
-            </div>
-
-	</div>
-		</div>
   <div class="container"> 
    <div class="aboutsections">
    
           <div class="row">
-            
-             
-            <div class="col-md-4">
+            <br><br>
+             <h2>Upcoming Events</h2>
+            <div class="col-md-5">
           
         <h3>Ground Breaking  -  May 5, 2018</h3>
         </div>
-        <div class="col-md-8 content-line"></div>
+        <div class="col-md-7 content-line"></div>
        
       </div>            
 <div class="about">
@@ -43,7 +33,7 @@
            </div>
         
         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
-        
+        <br>
 
           <p>The Gail S. Halvorsen Aviation Education Center at the Spanish Fork - Springville Airport
             will exhibit and archive Gail Halvorsen's personal photographs, documents and memorabillia. It will
@@ -60,10 +50,10 @@
     <div class="aboutsections">
         <h2>Past Events</h2>
           <div class="row">
-            <div class="col-md-4">
+            <div class="col-md-5">
         <h3>"The Candy Bomber" Gala <br> September 22, 2017</h3>
         </div>
-        <div class="col-md-8 content-line"></div>
+        <div class="col-md-7 content-line"></div>
        
       </div>            
 <div class="about">
@@ -75,8 +65,8 @@
            </div>
         
         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
-        
-
+          
+          <br>
           <p>“A Flight to Remember…A Heroes Legacy” Gala honoring Gail Halvorsen "The WWII Candy Bomber" was held
             September 22, 2017 at the Courtyard at Jamestown in Provo, Utah. Guests were treated to an entertaining evening of dinner, music and live auction. Halvorsen attended this intimate and heartwarming evening held to honor his legacy of hope. Proceeds raised from the Gail Halvorsen "The Candy Bomber" Gala were dedicated to creating a memorial exhibit and aviation education center located in Spanish Fork, Utah. 
       </p>
@@ -89,10 +79,10 @@
 <div class="container">
     <div class="aboutsections">
           <div class="row">
-            <div class="col-md-4">
+            <div class="col-md-5">
         <h3>Day of Simple Service  -  October 10, 2016</h3>
         </div>
-        <div class="col-md-8 content-line"></div>
+        <div class="col-md-7 content-line"></div>
       </div>            
 <div class="about">
       <div class="row">
@@ -103,7 +93,7 @@
            </div>
         
         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
-        
+          <br>
 
           <p>Particpants celebrated Gail Halvorsen's 96th birthday by performing simple acts of service for strangers. 
            Halvorsen has dedicated his life to the service of others and believes “service before self is the only way to fulfillment in life.”
@@ -114,7 +104,9 @@
       </div>
     </div>
   </div>
-	 </div>
-	 </div>
-	 </div>
+
+</div>
+</div>
+
+</div>
 <?php require_once('footer.php'); ?>
