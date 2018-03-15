@@ -28,9 +28,9 @@
         <p>
             Few episodes of history bring smiles and touch hearts as effectively as The Candy Bomber. Perhaps you are aware of Gail S. Halvorsen, who brought hope to needy children by dropping candy tied to tiny parachutes during the post-war Berlin Airlift in 1948-1949. The Gail S. Halvorsen Aviation Education Foundation promotes values which give rise to acts of service, and provides educational opportunities for children to experience science, technology, engineering, and math in a practical and hands-on fashion.
         </p>
-		<div class="col-md-12" style="margin-top: 50px; margin-bottom: 50px;">
+		<div class="col-md-12" style="margin-top:50px;">
                 <a class="btn btn-primary btn-sm AboutButtonBlue center-block">DONATE</a>
-			<hr class="content-line">
+			<hr class="content-line" style="margin-top:50px;">
             </div>
 		
 		<div class="col-sm-12">
@@ -82,7 +82,7 @@
                 <p>Here are some of our highly honored Golden Donors and Contributors</p>
             </div>
             <div class="row">
-                <img class="img-responsive" src="img/golden-donors.png" alt="golden donors">
+                <img class="img-responsive" src="img/golden-donors/golden-donors.png" alt="golden donors">
             </div>
         </div>
 

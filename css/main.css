@@ -134,6 +134,9 @@ div.imageright img{
 	width:250px;
 	float:right;
 }
+div.col-md-8.board-members-text{
+	margin-bottom:0px;
+}
 div.aboutsectionimage img{
 	max-width: 400px; 
 	margin: 0 auto; 
@@ -269,6 +272,7 @@ div.activities .filter.hdpe{
 div.activities img{
 	margin-bottom:20px;
 	border:1px solid #000000;
+	width:100%;
 }
 button.gallery {
    background-color: #ffffff;
@@ -421,11 +425,12 @@ div.sub-section .mainpage p{
 	
 }
 .titlespacing{
-	padding-bottom:20px;
+	padding-bottom:0px;
 }
 .sectionspacing{
 	padding-bottom:50px;
 }
+
 .sub-section p{
     color: white;
     padding: 20px;
@@ -437,6 +442,9 @@ div.sub-section .mainpage p{
 	text-align:center;
 }
 .sub-section.gail hr.content-line{
+	display:none;
+}
+.sub-section.educator hr.content-line{
 	display:none;
 }
 
@@ -705,13 +713,15 @@ h3.blueHeader.text-center{
     padding: 5px 15px;
     
 }
-	.sub-section.gail hr.content-line{
+	.sub-section.educator hr.content-line{
 	display:block;
+		margin-top:50px;
 }
 	.sub-section.gail .AboutButton{
 		margin-bottom:20px;
 	
 }
+	
 	
 	div.overview p{
 	margin-top:0px;
@@ -821,9 +831,14 @@ h3.blueHeader.text-center{
 
     /*Board member and Civil Air Patrol Mobile*/
     .content-line{
-        margin-top: 0;
+        margin-top: 20px;
     }
-
+	div.container.board-members-section{
+		margin-top:0px;
+	}
+	div.activities img.imgresponsive{
+		margin-right:0px;
+	}
 
 
 

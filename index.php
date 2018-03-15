@@ -23,14 +23,14 @@
             <div class="item">
                 <img src="img/slider/civil-air-patrol1.jpg" alt="Civil Air Patrol" class="img-responsive 2" />
                 <div class="carousel-caption">Meet our Board Members
-                    <a class="btn btn-primary btn-lg">The Foundation</a>
+                    <a href="about_overview.php" class="btn btn-primary btn-lg">The Foundation</a>
                 </div>
 
             </div>
             <div class="item">
                  <img src="img/slider/candyDrop.jpg" alt="Candy Drop" class="img-responsive 3" />
                  <div class="carousel-caption"> Play our Candy Drop Game!<br>
-                     <a class="btn btn-primary btn-lg">Candy Drop</a>
+                     <a href="activities.php" class="btn btn-primary btn-lg">Candy Drop</a>
                  </div>
             </div>
         </div>
@@ -52,7 +52,7 @@
 		<div class="container">
         <h3 class="col-md-8"> Add your own touch and buy a brick </h3>
         <div class="col-md-2">
-            <a class="btn btn-primary btn-lg">BUY A BRICK</a>
+            <a href="contribute.php" class="btn btn-primary btn-lg">BUY A BRICK</a>
 			</div>
 			<div class="col-md-2">
 			</div>
@@ -82,19 +82,19 @@
           <div class="row">
             <div class="col-md-4 quicklinksection">
                 <img class="img-responsive center-block" src="img/GailStory.jpg">
-				<h4 class="quickh3"><strong><a href="gail_overview.html">Gail's Story</a></strong></h4>
+				<h4 class="quickh3"><strong><a href="gail_overview.php">Gail's Story</a></strong></h4>
                 <p>The Gail S. Halvorsen Aviation Education Foundation was formed in 2016 by a group of community-minded volunteers who sought to perpetuate the Candy Bomber’s legacy.</p>
 
             </div>
             <div class="col-md-4 quicklinksection">
                 <img class="img-responsive center-block" src="img/civil-air-patrol.jpg">
-				<h4 class="quickh3"><strong><a href="about_overview.html">The Foundation</a></strong></h4>
+				<h4 class="quickh3"><strong><a href="about_overview.php">The Foundation</a></strong></h4>
                 <p>We are grateful to all who donate to the foundation. Please visit our support page for more information on our sponsors and how to donate to the foundation.</p>
 
            </div>
             <div class="col-md-4 quicklinksection">
                 <img class="img-responsive center-block" src="img/Gail-FenceFull.jpg">
-				<h4 class="quickh3"><strong><a href="educators overview.html">Educators</a></strong></h4>
+				<h4 class="quickh3"><strong><a href="educators overview.php">Educators</a></strong></h4>
                 <p>We help educators find enriching STEM Activities for their students. From videos, hands-on activities, and lesson plans, we hope to inspire more love for STEM in the classroom.</p>
 
             </div>
@@ -137,7 +137,7 @@
 				The Gail S. Halvorsen Aviation Education Foundation is incorporated in the State of Utah as a charitable educational organization and is licensed by the Utah Department of Commerce to solicit charitable donations. The Foundation is recognized as a Section 501c3 charitable foundation by the Internal Revenue Service.
                 </p>
                 <div class="col-md-12">
-                    <a class="btn btn-primary btn-lg center-block">DONATE</a>
+                    <a href="contribute.php" class="btn btn-primary btn-lg center-block">DONATE</a>
 				</div>
 				
             </div>

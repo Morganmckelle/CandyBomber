@@ -69,7 +69,7 @@
                         <p> Learn more about Gail's life, how he became a pilot, his contribution to "Operation Little Vittles", and more!</p>
 						<br>
 						<div class="buttoncenter">
-						<a class="btn btn-primary btn-sm AboutButton" href="gail.html">More...</a>
+						<a class="btn btn-primary btn-sm AboutButton" href="gail.php">More...</a>
 						</div>
 						<hr class="content-line">
                     </div>
