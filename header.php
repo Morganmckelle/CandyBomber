@@ -33,7 +33,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="index.html">
+                <a class="navbar-brand" href="index.php">
                     <img src="img/logo/1x/Artboard 1.png" alt="Gail S. Halvorsen Aviation Education Foundation Logo"/>
                 </a>
             </div>
