@@ -45,22 +45,22 @@
 				<div class="container">
                 <ul class="nav navbar-nav">
                     <li>
-                        <a href="about_overview.html">ABOUT</a>
+                        <a href="about_overview.php">ABOUT</a>
                     </li>
                     <li>
-                        <a href="contribute.html">CONTRIBUTE</a>
+                        <a href="contribute.php">CONTRIBUTE</a>
                     </li>
                     <li>
-                        <a href="educators_overview.html">EDUCATORS</a>
+                        <a href="educators_overview.php">EDUCATORS</a>
                     </li>
                     <li>
-                        <a href="#">EVENTS</a>
+                        <a href="events.php">EVENTS</a>
                     </li>
                     <li>
-                        <a href="gail_overview.html">GAIL'S STORY</a>
+                        <a href="gail_overview.php">GAIL'S STORY</a>
                     </li>
                     <li>
-                        <a href="contact.html">CONTACT</a>
+                        <a href="contact.php">CONTACT</a>
                     </li>
                 </ul>
 				</div>

@@ -3,14 +3,14 @@
               <div class="row">
                   <div class="col-sm-4 nav-items">
                       <div class="col-xs-6">
-                          <a href="about_overview.html"><div>ABOUT</div></a>
+                          <a href="about_overview.php"><div>ABOUT</div></a>
                           <a href="#"><div>EVENTS</div></a>
-                          <a href="gail_overview.html"><div>GAIL'S STORY</div></a>
+                          <a href="gail_overview.php"><div>GAIL'S STORY</div></a>
                       </div>
                       <div class="col-xs-6">
-                          <a href="contribute.html"><div>CONTRIBUTE</div></a>
-                          <a href="educators overview.html"><div>EDUCATORS</div></a>
-                          <a href="contact.html"><div>CONTACT</div></a>
+                          <a href="contribute.php"><div>CONTRIBUTE</div></a>
+                          <a href="educators overview.php"><div>EDUCATORS</div></a>
+                          <a href="contact.php"><div>CONTACT</div></a>
                       </div>
                       <div class="clearfix"></div>
                   </div>

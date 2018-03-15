@@ -431,6 +431,14 @@ div.sub-section .mainpage p{
     padding: 20px;
 	text-align:center;
 }
+.sub-section.gail p{
+    color: white;
+    padding: 0px;
+	text-align:center;
+}
+.sub-section.gail hr.content-line{
+	display:none;
+}
 
 /* Black Section */
 .black-section{
@@ -624,7 +632,11 @@ h3.blueHeader.text-center{
 }
 
 
-
+.sub-section.gail img{
+		margin-top:20px;
+		padding:0px;
+	
+}
 
 
 
@@ -685,6 +697,14 @@ h3.blueHeader.text-center{
     padding: 5px 15px;
     
 }
+	.sub-section.gail hr.content-line{
+	display:block;
+}
+	.sub-section.gail .AboutButton{
+		margin-bottom:20px;
+	
+}
+	
 	div.overview p{
 	margin-top:0px;
 }
