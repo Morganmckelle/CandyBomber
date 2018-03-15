@@ -4,7 +4,7 @@
                   <div class="col-sm-4 nav-items">
                       <div class="col-xs-6">
                           <a href="about_overview.php"><div>ABOUT</div></a>
-                          <a href="#"><div>EVENTS</div></a>
+                          <a href="events.php"><div>EVENTS</div></a>
                           <a href="gail_overview.php"><div>GAIL'S STORY</div></a>
                       </div>
                       <div class="col-xs-6">
