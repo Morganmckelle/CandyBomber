@@ -27,7 +27,7 @@
                       </div>
                       <div class="col-xs-12 socialIcons">
                           <div class="col-xs-12 text-center">
-                              <a href="https://www.facebook.com/GSHFoundation/"><div class="socialImg"><i class="fab fa-facebook-f"></i></div></a>
+                              <a href="https://www.facebook.com/GSHFoundation/" target="_blank"><div class="socialImg"><i class="fab fa-facebook-f"></i></div></a>
                           </div>
                           <!--<div class="col-xs-4 text-center">-->
                               <!--<div class="socialImg"><i class="fab fa-twitter"></i></div>-->
