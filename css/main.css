@@ -487,6 +487,10 @@ div.sub-section .mainpage p{
     margin-bottom: 50px;
 }
 
+.board-text{
+    margin-top: 0px;
+}
+
 .board-members-img-text{
     background-color: #00A0E6;
     width: 100%;
@@ -651,6 +655,10 @@ h3.blueHeader.text-center{
     .board-members-header-right{
         float: none;
         text-align: center;
+    }
+
+    .board-text{
+        margin-top: 20px;
     }
 
     .img-container-right{
