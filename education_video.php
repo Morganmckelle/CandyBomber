@@ -13,7 +13,7 @@
         <div class="row videos" style="margin: auto;">
             <div class="col-sm-4 videos" style="margin-bottom: 50px;">
                 <h3 class="blueHeader text-center" style="margin-bottom: 20px;">Atmospheric Pressure</h3>
-                <img class="img-responsive" src="img/AviationCookbookVideos.png" data-toggle="modal" data-target="#Atmospheric" style="cursor: pointer;">
+                <img class="img-responsive" src="img/AviationCookbook/AtmosphericPressure.jpg" data-toggle="modal" data-target="#Atmospheric" style="cursor: pointer;">
                 <p>Learn about atmospheric pressure and how different temperatures make a difference.</p>
 				<h5>PDF File: <a href="AviationCookbook/AtmosphericPressure.pdf" target="_blank">Atmospheric Pressure PDF Lesson</a></h5>
                 <a class="btn btn-primary btn-sm AboutButtonBlue center-block" data-toggle="modal" data-target="#Atmospheric">VIEW VIDEO</a>
@@ -48,7 +48,7 @@
 
             <div class="col-sm-4 videos" style="margin-bottom: 50px;">
                 <h3 class="blueHeader text-center" style="margin-bottom: 20px;">Bernoulli Effect</h3>
-                <img class="img-responsive"  src="img/AviationCookbookVideos.png" data-toggle="modal" data-target="#Bernoulli" style="cursor: pointer;">
+                <img class="img-responsive"  src="img/AviationCookbook/BernoulliStraw.jpg" data-toggle="modal" data-target="#Bernoulli" style="cursor: pointer;">
                 <p>Learn more about the Bernoulli Effect with cups, water and straws!</p>
 				<h5>PDF File: <a href="AviationCookbook/BernoulliStraw.pdf" target="_blank">Bernoulli Effect PDF Lesson</a></h5>
                 <a class="btn btn-primary btn-sm AboutButtonBlue center-block" data-toggle="modal" data-target="#Bernoulli">VIEW VIDEO</a>
@@ -83,7 +83,7 @@
 
             <div class="col-sm-4 videos" style="margin-bottom: 50px;">
                 <h3 class="blueHeader text-center" style="margin-bottom: 20px;">Flying Coffee Cups</h3>
-                <img class="img-responsive"  src="img/AviationCookbookVideos.png" data-toggle="modal" data-target="#Flying" style="cursor: pointer;">
+                <img class="img-responsive"  src="img/AviationCookbook/FlyingCups.jpg" data-toggle="modal" data-target="#Flying" style="cursor: pointer;">
                 <p>In this fun activity, you will see how differences in pressure help lift objects.</p>
 				<h5>PDF File: <a href="AviationCookbook/FlyingCups.pdf" target="_blank">Flying Coffee Cups PDF Lesson</a></h5>
                 <a class="btn btn-primary btn-sm AboutButtonBlue center-block" data-toggle="modal" data-target="#Flying">VIEW VIDEO</a>
@@ -121,7 +121,7 @@
         <div class="row" >
             <div class="col-sm-4 videos" style="margin-bottom: 50px;">
                 <h3 class="blueHeader text-center" style="margin-bottom: 20px;">Funny Funnel</h3>
-                <img class="img-responsive"  src="img/AviationCookbookVideos.png" data-toggle="modal" data-target="#Funny" style="cursor: pointer;">
+                <img class="img-responsive"  src="img/AviationCookbook/FunnyFunnel.jpg" data-toggle="modal" data-target="#Funny" style="cursor: pointer;">
                 <p>Learn how to make a Funnel that affects pressure!</p>
 				<h5>PDF File: <a href="AviationCookbook/FunnyFunnel.pdf" target="_blank">Funny Funnel PDF Lesson</a></h5>
                 <a class="btn btn-primary btn-sm AboutButtonBlue center-block" data-toggle="modal" data-target="#Funny">VIEW VIDEO</a>
@@ -156,7 +156,7 @@
 
             <div class="col-sm-4 videos" style="margin-bottom: 50px;">
                 <h3 class="blueHeader text-center" style="margin-bottom: 20px;">Paper Airfoil</h3>
-                <img class="img-responsive"  src="img/AviationCookbookVideos.png" data-toggle="modal" data-target="#Paper" style="cursor: pointer;">
+                <img class="img-responsive"  src="img/AviationCookbook/PaperAirfoil.jpg" data-toggle="modal" data-target="#Paper" style="cursor: pointer;">
                 <p>Learn more about the Bernoulli effect through this paper airfoil!</p>
 				<h5>PDF File: <a href="AviationCookbook/PaperAirfoil.pdf" target="_blank">Paper Airfoil PDF Lesson</a></h5>
                 <a class="btn btn-primary btn-sm AboutButtonBlue center-block" data-toggle="modal" data-target="#Paper">VIEW VIDEO</a>
@@ -191,7 +191,7 @@
 
             <div class="col-sm-4 videos" style="margin-bottom: 50px;">
                 <h3 class="blueHeader text-center" style="margin-bottom: 20px;">Potato Gun</h3>
-                <img class="img-responsive"  src="img/AviationCookbookVideos.png" data-toggle="modal" data-target="#Potato" style="cursor: pointer;">
+                <img class="img-responsive"  src="img/AviationCookbook/PotatoGun.jpg" data-toggle="modal" data-target="#Potato" style="cursor: pointer;">
                 <p>Learn about Boyle's law in this Potato Gun activity!</p>
 				<h5>PDF File: <a href="AviationCookbook/PotatoGun.pdf" target="_blank">Potato Gun PDF Lesson</a></h5>
                 <a class="btn btn-primary btn-sm AboutButtonBlue center-block" data-toggle="modal" data-target="#Potato">VIEW VIDEO</a>
@@ -232,7 +232,7 @@
             </div>
             <div class="col-sm-4 videos" style="margin-bottom: 50px;">
                 <h3 class="blueHeader text-center" style="margin-bottom: 20px;">Straw Glider</h3>
-                <img class="img-responsive"  src="img/AviationCookbookVideos.png" data-toggle="modal" data-target="#Straw" style="cursor: pointer;">
+                <img class="img-responsive"  src="img/AviationCookbook/StrawGlider.jpg" data-toggle="modal" data-target="#Straw" style="cursor: pointer;">
                 <p>Learn about Newton's third law in this Straw Glider Activity!</p>
 				<h5>PDF File: <a href="AviationCookbook/StrawGliders.pdf" target="_blank">Straw Glider PDF Lesson</a></h5>
                 <a class="btn btn-primary btn-sm AboutButtonBlue center-block" data-toggle="modal" data-target="#Straw">VIEW VIDEO</a>

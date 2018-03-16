@@ -9,7 +9,7 @@
                       </div>
                       <div class="col-xs-6">
                           <a href="contribute.php"><div>CONTRIBUTE</div></a>
-                          <a href="educators overview.php"><div>EDUCATORS</div></a>
+                          <a href="educators_overview.php"><div>EDUCATORS</div></a>
                           <a href="contact.php"><div>CONTACT</div></a>
                       </div>
                       <div class="clearfix"></div>

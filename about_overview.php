@@ -87,7 +87,7 @@ mathematics disciplines.</p>
 						<h3 class="text-center"><strong>Civil Air Patrol</strong></h3>
                         <p>Civil Air Patrol is an organization of airmen dedicated to serving our country. Click below to discover how Civil Air Patrol and the Foundation work together for the benefit of our communities.</p>
 						<div class="buttoncenter">
-						<a href="civil_air_patrol.php"class="btn btn-primary btn-sm AboutButton">More...</a>
+						<a href="civil_air_patrol.php" class="btn btn-primary btn-sm AboutButton">More...</a>
 						</div>
                     </div>
                 </div>

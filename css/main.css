@@ -312,11 +312,17 @@ nav .nav-second-level{
     color: white;
     font-size: 14px;
     text-shadow: none;
-    padding: 10px 10px 10px 0px;
+    padding: 10px;
 
 }
+
+.navbar-nav li{
+    margin-right: 10px;
+}
+
 .navbar-nav li a{
-	padding:10px 15px 10px 0px;
+    /*padding-left: 10px;*/
+	/*padding:10px 15px 10px 0px;*/
 }
 
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover{
@@ -340,6 +346,25 @@ nav .nav-second-level{
 .navbar-brand img{
     width: 100%;
 }
+
+
+
+/* Nav Dropdown */
+.dropdown ul li{
+    text-align: center;
+}
+.active{
+    color: #333 !important;
+}
+.dropdown-menu li{
+    margin-right: 0px;
+}
+.dropdown-menu li a{
+    padding-left: auto;
+}
+
+
+
 
 .carousel-inner{
 	max-height:450px;
@@ -504,7 +529,7 @@ div.sub-section .mainpage p{
 }
 
 .board-text{
-    margin-top: 0px;
+    margin-top:  0px;
 }
 
 .board-members-img-text{
@@ -699,7 +724,7 @@ h3.blueHeader.text-center{
 @media only screen and (min-width: 768px) {
 
     .hide-on-desktop {
-        display: none;
+        display: none !important;
     }
 
     .mobileJumbotron{
@@ -709,6 +734,11 @@ h3.blueHeader.text-center{
 
 /* sm and down*/
 @media only screen and (max-width: 767px) {
+
+    .navbar-nav li{
+        margin-right: 0px;
+    }
+
     .img-container-right{
     padding: 5px 15px;
     
@@ -761,7 +791,7 @@ h3.blueHeader.text-center{
 		display:none;
 	}
     .hide-on-mobile{
-        display: none;
+        display: none !important;
     }
 
     .navbar-default .navbar-toggle{
@@ -805,6 +835,8 @@ h3.blueHeader.text-center{
 		background-color:white;
 		color:#00A0E6;
 	}
+
+
 
    .banner, #carousel-example-generic{
         display:none;

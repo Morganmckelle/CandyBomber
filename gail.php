@@ -80,7 +80,7 @@
 		<div class="titlespacing">
         <div class="row">
 			
-            <h4 class="col-md-2 blueHeader text-center board-members-header-left">Early Life</h4>
+            <h4 id="earlyLife" class="col-md-2 blueHeader text-center board-members-header-left">Early Life</h4>
             <div class="col-md-10 content-line"></div>
 			</div>
         </div>
@@ -100,7 +100,7 @@
 		</div>
         <div class="titlespacing">
             <div class="row">
-                <h4 class="col-md-2 blueHeader text-center text-center board-members-header-left">The War</h4>
+                <h4 id="theWar" class="col-md-2 blueHeader text-center text-center board-members-header-left">The War</h4>
             <div class="col-md-10 content-line"></div>
         </div>
 		</div>
@@ -134,7 +134,7 @@
 
 		<div class="titlespacing">
         <div class="row">
-            <h4 class="col-md-2 blueHeader text-center board-members-header-left">Career</h4>
+            <h4 id="career" class="col-md-2 blueHeader text-center board-members-header-left">Career</h4>
             <div class="col-md-10 content-line"></div>
         </div>
 		</div>
@@ -165,7 +165,7 @@
 		</div>
 		<div class="titlespacing">
         <div class="row">
-            <h4 class="col-md-2 blueHeader text-center board-members-header-left">Legacy</h4>
+            <h4 id="legacy" class="col-md-2 blueHeader text-center board-members-header-left">Legacy</h4>
             <div class="col-md-10 content-line"></div>
         </div>
 		</div>
@@ -205,7 +205,7 @@
 		
 		<div class="titlespacing">
         <div class="row">
-            <h4 class="col-md-2 blueHeader text-center board-members-header-left">Personal Life</h4>
+            <h4 id="personalLife" class="col-md-2 blueHeader text-center board-members-header-left">Personal Life</h4>
             <div class="col-md-10 content-line"></div>
         </div>
 		</div>

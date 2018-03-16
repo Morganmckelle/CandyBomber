@@ -72,7 +72,7 @@
 
 		<div class="titlespacing">
         <div class="row">
-            <h4 class="col-md-2 blueHeader text-center board-members-header-left">Paul Jensen</h4>
+            <h4 class="col-md-2 blueHeader text-center board-members-header-left">Paul J. Jensen</h4>
             <div class="col-md-10 content-line"></div>
         </div>
 		</div>
@@ -144,7 +144,7 @@
 		</div>
 		<div class="titlespacing">
         <div class="row">
-            <h4 class="col-md-2 blueHeader text-center board-members-header-left">Denise H. Williams</h4>
+            <h4 class="col-md-2 blueHeader text-center board-members-header-left">Denise Halvorsen Williams</h4>
             <div class="col-md-10 content-line"></div>
         </div>
 		</div>

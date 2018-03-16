@@ -1,3 +1,10 @@
+<?php
+$directoryURI = $_SERVER['REQUEST_URI'];
+$path = parse_url($directoryURI, PHP_URL_PATH);
+$components = explode('/', $path);
+$current_page = $components[1];
+?>
+
 <!doctype html>
 <html class="no-js" lang="">
     <head>
@@ -44,28 +51,87 @@
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 				<div class="container">
                 <ul class="nav navbar-nav">
-                    <li>
-                        <a href="about_overview.php">ABOUT</a>
+
+                    <li class="hide-on-desktop">
+                        <a class="<?php if ($current_page=="about_overview.php") {echo "active"; } else  {echo "";}?>
+                        <?php if ($current_page=="board_members.php") {echo "active"; } else  {echo "";}?>
+                        <?php if ($current_page=="civil_air_patrol.php") {echo "active"; } else  {echo "";}?>" href="about_overview.php">ABOUT</a>
                     </li>
-                    <li>
-                        <a href="contribute.php">CONTRIBUTE</a>
+                    <li class="dropdown hide-on-mobile" style="cursor:pointer;">
+                        <a class="dropdown-toggle
+                        <?php if ($current_page=="about_overview.php") {echo "active"; } else  {echo "";}?>
+                        <?php if ($current_page=="board_members.php") {echo "active"; } else  {echo "";}?>
+                        <?php if ($current_page=="civil_air_patrol.php") {echo "active"; } else  {echo "";}?>" data-toggle="dropdown">ABOUT
+                            <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="about_overview.php">ABOUT OVERVIEW</a></li>
+                            <li><a href="board_members.php">BOARD MEMBERS</a></li>
+                            <li><a href="civil_air_patrol.php">CIVIL AIR PATROL</a></li>
+                        </ul>
                     </li>
+
+
                     <li>
-                        <a href="educators_overview.php">EDUCATORS</a>
+                        <a class="<?php if ($current_page=="contribute.php") {echo "active"; } else  {echo "";}?>" href="contribute.php">CONTRIBUTE</a>
                     </li>
+
+
+                    <li class="hide-on-desktop">
+                        <a class="<?php if ($current_page=="educators_overview.php") {echo "active"; } else  {echo "";}?>
+                        <?php if ($current_page=="educator.php") {echo "active"; } else  {echo "";}?>
+                        <?php if ($current_page=="education_video.php") {echo "active"; } else  {echo "";}?>" href="educators_overview.php">EDUCATORS</a>
+                    </li>
+                    <li class="dropdown hide-on-mobile" style="cursor:pointer;">
+                        <a class="dropdown-toggle
+                        <?php if ($current_page=="educators_overview.php") {echo "active"; } else  {echo "";}?>
+                        <?php if ($current_page=="educator.php") {echo "active"; } else  {echo "";}?>
+                        <?php if ($current_page=="education_video.php") {echo "active"; } else  {echo "";}?>" data-toggle="dropdown">EDUCATORS
+                            <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="educators_overview.php">EDUCATORS OVERVIEW</a></li>
+                            <li><a href="educator.php">STEM ACTIVITIES</a></li>
+                            <li><a href="education_video.php">AVIATION COOKBOOK</a></li>
+                        </ul>
+                    </li>
+
+
                     <li>
-                        <a href="events.php">EVENTS</a>
+                        <a class="<?php if ($current_page=="events.php") {echo "active"; } else  {echo "";}?>" href="events.php">EVENTS</a>
                     </li>
+
+
+                    <li class="hide-on-desktop">
+                        <a class=" <?php if ($current_page=="gail_overview.php") {echo "active"; } else  {echo "";}?>
+                        <?php if ($current_page=="gail.php") {echo "active"; } else  {echo "";}?>
+                        <?php if ($current_page=="gallery.php") {echo "active"; } else  {echo "";}?>
+                        <?php if ($current_page=="gails_videos.php") {echo "active"; } else  {echo "";}?>
+                        <?php if ($current_page=="activities.php") {echo "active"; } else  {echo "";}?>" href="gail_overview.php">GAIL'S STORY</a>
+                    </li>
+                    <li class="dropdown hide-on-mobile" style="cursor:pointer;">
+                        <a class="dropdown-toggle
+                        <?php if ($current_page=="gail_overview.php") {echo "active"; } else  {echo "";}?>
+                        <?php if ($current_page=="gail.php") {echo "active"; } else  {echo "";}?>
+                        <?php if ($current_page=="gallery.php") {echo "active"; } else  {echo "";}?>
+                        <?php if ($current_page=="gails_videos.php") {echo "active"; } else  {echo "";}?>
+                        <?php if ($current_page=="activities.php") {echo "active"; } else  {echo "";}?>"" data-toggle="dropdown">GAIL'S STORY
+                            <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="gail_overview.php">GAIL OVERVIEW</a></li>
+                            <li><a href="gail.php">GAIL'S HISTORY</a></li>
+                            <li><a href="gallery.php">IMAGE GALLERY</a></li>
+                            <li><a href="gails_videos.php">VIDEO GALLERY</a></li>
+                            <li><a href="activities.php">YOUTH ACTIVITIES</a></li>
+                        </ul>
+                    </li>
+
+
                     <li>
-                        <a href="gail_overview.php">GAIL'S STORY</a>
+                        <a class="<?php if ($current_page=="contact.php") {echo "active"; } else  {echo "";}?>" href="contact.php">CONTACT</a>
                     </li>
-                    <li>
-                        <a href="contact.php">CONTACT</a>
-                    </li>
+
                 </ul>
 				</div>
             </div><!-- /.navbar-collapse -->
         </div><!-- /.container-fluid -->
     </nav>
-
 
