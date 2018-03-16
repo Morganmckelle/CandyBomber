@@ -1,12 +1,7 @@
 <?php require_once('header.php'); ?>
 
 
-<div class="container-fluid">
-
-<button onclick="topFunction()" id="myBtn" title="Go to top"><i class="fas fa-angle-up"></i>
-
-</button>
-    <div class="container">
+<div class="container">
     <div class="mission">
       <div class="row">
       <div class="col-sm-12">
@@ -29,7 +24,7 @@
           <section>
       <div class="activities">
             <div class="gallery_product col-lg-3 col-md-3 col-sm-6 col-xs-12">
-                <img src="img/Educator_Resources/lighter-than-air.jpg" class="img-responsive">
+                <a href="http://howthingsfly.si.edu/sites/default/files/attachment/LighterThanAir.pdf" target="_blank"><img src="img/Educator_Resources/lighter-than-air.jpg" class="img-responsive"></a>
                 <h4>Lighter Than Air</h4>
                 <div align="left">
                 <p>
@@ -46,7 +41,7 @@
   
       <div class="activities">
             <div class="gallery_product col-lg-3 col-md-3 col-sm-6 col-xs-12">
-                <a href="https://www.grc.nasa.gov/www/k-12/UEET/StudentSite/games/wb2k3/wb2k3.html"><img src="img/Educator_Resources/wright-brothers.jpg" class="img-responsive"></a>
+                <a href="https://www.grc.nasa.gov/www/k-12/UEET/StudentSite/games/wb2k3/wb2k3.html" target="_blank"><img src="img/Educator_Resources/wright-brothers.jpg" class="img-responsive"></a>
                 <h4>Wright Brothers Game</h4>
                 <div align="left">
                 <p>
@@ -57,12 +52,12 @@
                   <strong>Source:</strong>&nbsp Glenn Research Center NASA<br>
                 </p>
                 </div>
-                 <a class="btn btn-primary btn-sm AboutButtonBlue" href="https://www.grc.nasa.gov/www/k-12/UEET/StudentSite/games/wb2k3/wb2k3.html" data-target="_blank">View Activity</a>
+                 <a class="btn btn-primary btn-sm AboutButtonBlue" href="https://www.grc.nasa.gov/www/k-12/UEET/StudentSite/games/wb2k3/wb2k3.html" target="_blank">View Activity</a>
             </div>
         </div>
       <div class="activities">
              <div class="gallery_product col-lg-3 col-md-3 col-sm-6 col-xs-12">
-                <a href="http://howthingsfly.si.edu/sites/default/files/attachment/LookMomNoWings.pdf"><img src="img/Educator_Resources/no-wings.jpg" class="img-responsive"></a>
+                <a href="http://howthingsfly.si.edu/sites/default/files/attachment/LookMomNoWings.pdf" target="_blank"><img src="img/Educator_Resources/no-wings.jpg" class="img-responsive"></a>
                 <h4>How High Can You Fly?</h4>
                 <div align="left">
                 <p>
@@ -71,12 +66,12 @@
                   <strong>Source:</strong>&nbsp Smithsonian National Air and Space Museum<br>
                 </p>
                 </div>
-                 <a class="btn btn-primary btn-sm AboutButtonBlue" href="http://howthingsfly.si.edu/sites/default/files/attachment/LookMomNoWings.pdf" data-target="_blank">View Activity</a>
+                 <a class="btn btn-primary btn-sm AboutButtonBlue" href="http://howthingsfly.si.edu/sites/default/files/attachment/LookMomNoWings.pdf" target="_blank">View Activity</a>
             </div>
         </div>
       <div class="activities">
             <div class="gallery_product col-lg-3 col-md-3 col-sm-6 col-xs-12">
-                <a href="http://howthingsfly.si.edu/media/airplane-instruments"><img src="img/Educator_Resources/airplane-instruments.jpg" class="img-responsive"></a>
+                <a href="http://howthingsfly.si.edu/media/airplane-instruments" target="_blank"><img src="img/Educator_Resources/airplane-instruments.jpg" class="img-responsive"></a>
                 <h4>Airplane Instruments</h4>
                 <div align="left">
                 <p>
@@ -86,7 +81,7 @@
                   <br>
                 </p>
                 </div>
-                 <a class="btn btn-primary btn-sm AboutButtonBlue" href="http://howthingsfly.si.edu/media/airplane-instruments" data-target="_blank">View Activity</a>
+                 <a class="btn btn-primary btn-sm AboutButtonBlue" href="http://howthingsfly.si.edu/media/airplane-instruments" target="_blank">View Activity</a>
             </div>
         </div>
 
@@ -102,22 +97,23 @@
           <section>
             <div class="activities">
             <div class="gallery_product col-lg-3 col-md-3 col-sm-6 col-xs-12">
-                <a href=": http://www.educationworld.com/a_lesson/01-1/lp236_05.shtml"><img src="img/Educator_Resources/paper-airplane.jpg" class="img-responsive"></a>
+                <a href="http://www.educationworld.com/a_lesson/01-1/lp236_05.shtml" target="_blank"><img src="img/Educator_Resources/paper-airplane.jpg" class="img-responsive"></a>
                 <h4>Design a Paper Airplane</h4>
                 <div align="left">
                 <p>
-                  <strong>Description:</strong>&nbsp Explore basic aeronautical concepts as students work in teams to create paper airplanes.<br>
+                  <strong>Description:</strong>&nbsp Explore basic aeronautical concepts as students work in teams to create paper airplanes.
+                  <br>
                   <strong>Activity Type:</strong>&nbsp Online Activity <br>
                   <strong>Source:</strong>&nbsp educationworld.com<br>
                   <br>
                 </p>
                 </div>
-                 <a class="btn btn-primary btn-sm AboutButtonBlue" href=": http://www.educationworld.com/a_lesson/01-1/lp236_05.shtml" data-target="_blank">View Activity</a>
+                 <a class="btn btn-primary btn-sm AboutButtonBlue" href=": http://www.educationworld.com/a_lesson/01-1/lp236_05.shtml" target="_blank">View Activity</a>
             </div>
         </div>
       <div class="activities">
             <div class="gallery_product col-lg-3 col-md-3 col-sm-6 col-xs-12">
-                <a href="http://howthingsfly.si.edu/activities/how-wings-work"><img src="img/Educator_Resources/how-wings-work.jpg" class="img-responsive"></a>
+                <a href="http://howthingsfly.si.edu/activities/how-wings-work" target="_blank"><img src="img/Educator_Resources/how-wings-work.jpg" class="img-responsive"></a>
                 <h4>How Wings Work</h4>
                 <div align="left">
                 <p>
@@ -126,12 +122,12 @@
                   <strong>Source:</strong>&nbsp Smithsonian National Air and Space Museum<br>
                 </p>
                 </div>
-                 <a class="btn btn-primary btn-sm AboutButtonBlue" href="http://howthingsfly.si.edu/activities/how-wings-work" data-target="_blank">View Activity</a>
+                 <a class="btn btn-primary btn-sm AboutButtonBlue" href="http://howthingsfly.si.edu/activities/how-wings-work" target="_blank">View Activity</a>
             </div>
         </div>
       <div class="activities">
             <div class="gallery_product col-lg-3 col-md-3 col-sm-6 col-xs-12">
-                <a href="http://howthingsfly.si.edu/gravity-air/gravity-keeps-us-down-earth"><img src="img/Educator_Resources/gravity.jpg" class="img-responsive"></a>
+                <a href="http://howthingsfly.si.edu/gravity-air/gravity-keeps-us-down-earth" target="_blank"><img src="img/Educator_Resources/gravity.jpg" class="img-responsive"></a>
                 <h4>Gravity Keeps Us Down to Earth</h4>
                 <div align="left">
                 <p>
@@ -141,12 +137,12 @@
                   <strong>Source:</strong>&nbsp Smithsonian National Air and Space Museum<br>
                 </p>
                 </div>
-                 <a class="btn btn-primary btn-sm AboutButtonBlue" href="http://howthingsfly.si.edu/gravity-air/gravity-keeps-us-down-earth" data-target="_blank">View Activity</a>
+                 <a class="btn btn-primary btn-sm AboutButtonBlue" href="http://howthingsfly.si.edu/gravity-air/gravity-keeps-us-down-earth" target="_blank">View Activity</a>
             </div>
         </div>
       <div class="activities">
             <div class="gallery_product col-lg-3 col-md-3 col-sm-6 col-xs-12">
-                <a href="http://howthingsfly.si.edu/activities/forces-flight"><img src="img/Educator_Resources/forces-of-flight.jpg" class="img-responsive"></a>
+                <a href="http://howthingsfly.si.edu/activities/forces-flight" target="_blank"><img src="img/Educator_Resources/forces-of-flight.jpg" class="img-responsive"></a>
                 <h4>Forces of Flight</h4>
                 <div align="left">
                 <p>
@@ -156,7 +152,7 @@
                   <br>
                 </p>
                 </div>
-                 <a class="btn btn-primary btn-sm AboutButtonBlue" href="http://howthingsfly.si.edu/activities/forces-flight" data-target="_blank">View Activity</a>
+                 <a class="btn btn-primary btn-sm AboutButtonBlue" href="http://howthingsfly.si.edu/activities/forces-flight" target="_blank">View Activity</a>
             </div>
         </div>
           </section>
@@ -170,7 +166,7 @@
           <section>
       <div class="activities">
             <div class="gallery_product col-lg-3 col-md-3 col-sm-6 col-xs-12">
-                <a href=" http://howthingsfly.si.edu/activities/rocket-lab"><img src="img/Educator_Resources/rocket-lab.jpg" class="img-responsive"></a>
+                <a href="http://howthingsfly.si.edu/activities/rocket-lab" target="_blank"><img src="img/Educator_Resources/rocket-lab.jpg" class="img-responsive"></a>
                 <h4>Rocket Lab</h4>
                 <div align="left">
                 <p>
@@ -182,12 +178,12 @@
                   <strong>Source:</strong>&nbsp Smithsonian National Air and Space Museum<br>
                 </p>
                 </div>
-                 <a class="btn btn-primary btn-sm AboutButtonBlue" href=" http://howthingsfly.si.edu/activities/rocket-lab" data-target="_blank">View Activity</a>
+                 <a class="btn btn-primary btn-sm AboutButtonBlue" href="http://howthingsfly.si.edu/activities/rocket-lab" target="_blank">View Activity</a>
             </div>
         </div>
       <div class="activities">
             <div class="gallery_product col-lg-3 col-md-3 col-sm-6 col-xs-12">
-                <a href="http://howthingsfly.si.edu/aerodynamics/air-motion"><img src="img/Educator_Resources/air-in-motion.jpg" class="img-responsive"></a>
+                <a href="http://howthingsfly.si.edu/aerodynamics/air-motion" target="_blank"><img src="img/Educator_Resources/air-in-motion.jpg" class="img-responsive"></a>
                 <h4>Air in Motion</h4>
                 <div align="left">
                 <p>
@@ -197,12 +193,12 @@
                   <br>
                 </p>
                 </div>
-                 <a class="btn btn-primary btn-sm AboutButtonBlue" href="http://howthingsfly.si.edu/aerodynamics/air-motion" data-target="_blank">View Activity</a>
+                 <a class="btn btn-primary btn-sm AboutButtonBlue" href="http://howthingsfly.si.edu/aerodynamics/air-motion" target="_blank">View Activity</a>
             </div>
         </div>
       <div class="activities">
             <div class="gallery_product col-lg-3 col-md-3 col-sm-6 col-xs-12">
-                <a href="http://howthingsfly.si.edu/media/shock-wave"><img src="img/Educator_Resources/shock-wave.jpg" class="img-responsive"></a>
+                <a href="http://howthingsfly.si.edu/media/shock-wave" target="_blank"><img src="img/Educator_Resources/shock-wave.jpg" class="img-responsive"></a>
                 <h4>Creating a Shock Wave</h4>
                 <div align="left">
                 <p>
@@ -212,12 +208,12 @@
                   <strong>Source:</strong>&nbsp Smithsonian National Air and Space Museum<br>
                 </p>
                 </div>
-                 <a class="btn btn-primary btn-sm AboutButtonBlue" href="http://howthingsfly.si.edu/media/shock-wave" data-target="_blank">View Activity</a>
+                 <a class="btn btn-primary btn-sm AboutButtonBlue" href="http://howthingsfly.si.edu/media/shock-wave" target="_blank">View Activity</a>
             </div>
         </div>
       <div class="activities">
             <div class="gallery_product col-lg-3 col-md-3 col-sm-6 col-xs-12">
-                <a href="http://howthingsfly.si.edu/activities/controlled-flight"><img src="img/Educator_Resources/controlled-flight.jpg" class="img-responsive"></a>
+                <a href="http://howthingsfly.si.edu/activities/controlled-flight" target="_blank"><img src="img/Educator_Resources/controlled-flight.jpg" class="img-responsive"></a>
                 <h4>Controlled Flight</h4>
                 <div align="left">
                 <p>
@@ -226,13 +222,12 @@
                   <strong>Source:</strong>&nbsp Smithsonian National Air and Space Museum<br>
                 </p>
                 </div>
-                 <a class="btn btn-primary btn-sm AboutButtonBlue" href="http://howthingsfly.si.edu/activities/controlled-flight" data-target="_blank">View Activity</a>
+                 <a class="btn btn-primary btn-sm AboutButtonBlue" href="http://howthingsfly.si.edu/activities/controlled-flight" target="_blank">View Activity</a>
             </div>
         </div>
-
-          </section>
+        </section>
         </div>
         </div>
         </div>
-   </div>  <!-- /container -->
+   </div>   <!-- /container -->
 <?php require_once('footer.php'); ?>
