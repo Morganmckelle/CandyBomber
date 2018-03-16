@@ -106,7 +106,7 @@
                 <h4>Design a Paper Airplane</h4>
                 <div align="left">
                 <p>
-                  <strong>Description:</strong>&nbsp Gain a better understanding of the ways wings work and how wing shape impacts the lift to drag ratio.<br>
+                  <strong>Description:</strong>&nbsp Explore basic aeronautical concepts as students work in teams to create paper airplanes.<br>
                   <strong>Activity Type:</strong>&nbsp Online Activity <br>
                   <strong>Source:</strong>&nbsp educationworld.com<br>
                   <br>
@@ -194,6 +194,7 @@
                   <strong>Description:</strong>&nbsp Explore the Bernoulli principle,air pressure and lift.<br>
                   <strong>Activity Type:</strong>&nbsp Online Activity <br>
                   <strong>Source:</strong>&nbsp Smithsonian National Air and Space Museum<br>
+                  <br>
                 </p>
                 </div>
                  <a class="btn btn-primary btn-sm AboutButtonBlue" href="http://howthingsfly.si.edu/aerodynamics/air-motion" data-target="_blank">View Activity</a>
