@@ -55,7 +55,6 @@
 
                   <strong>Activity Type:</strong>&nbsp PDF Activity <br>
                   <strong>Source:</strong>&nbsp Glenn Research Center NASA<br>
-                  <br>
                 </p>
                 </div>
                  <a class="btn btn-primary btn-sm AboutButtonBlue" href="https://www.grc.nasa.gov/www/k-12/UEET/StudentSite/games/wb2k3/wb2k3.html" data-target="_blank">View Activity</a>
@@ -84,6 +83,7 @@
                   <strong>Description:</strong>&nbsp Learn about how instruments on the control panel help the pilot maintain control.<br>
                   <strong>Activity Type:</strong>&nbsp Online Activity <br>
                   <strong>Source:</strong>&nbsp Smithsonian National Air and Space Museum<br>
+                  <br>
                 </p>
                 </div>
                  <a class="btn btn-primary btn-sm AboutButtonBlue" href="http://howthingsfly.si.edu/media/airplane-instruments" data-target="_blank">View Activity</a>
