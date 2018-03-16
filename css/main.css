@@ -351,7 +351,7 @@ nav .nav-second-level{
 
 /* Nav Dropdown */
 .dropdown ul li{
-    text-align: center;
+    text-align: left;
 }
 .active{
     color: #333 !important;
