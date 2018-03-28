@@ -301,7 +301,7 @@ nav.navbar{
 
 nav .nav-first-level{
     height: 100px;
-    background-color: white;
+    background-color: transparent;
 }
 
 nav .nav-second-level{
