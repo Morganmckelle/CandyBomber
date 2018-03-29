@@ -62,6 +62,15 @@ div.banner img{
 	width: 100%;
 	/*max-height:400px;*/
 }
+div.row.lessons p{
+	margin:0;
+	padding:0;
+	text-align:center;
+	padding-bottom:10px;
+}
+div.row.lessons hr.content-line{
+	display:none;
+}
 div.bannertitle {
 	background-color: rgba(0, 160, 230, .5);
 	position: relative;
@@ -871,7 +880,12 @@ h3.blueHeader.text-center{
 	div.activities img.imgresponsive{
 		margin-right:0px;
 	}
-
-
+div.row.lessons hr.content-line{
+	display:block;
+}
+div.aboutsections.events h3{
+	font-size: 20px;
+	text-align:center;
+}
 
 }
