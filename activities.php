@@ -20,34 +20,35 @@
 
   <div class="container">
 
-          <section>
-			<div class="activities">
-            <div class="gallery_product col-lg-3 col-md-3 col-sm-6 col-xs-12 filter hdpe">
-                <img src="img/game.jpg" class="img-responsive">
-                <a class="btn btn-primary btn-sm AboutButtonBlue" data-toggle="modal" data-target="#">Candy Drop Game</a>
-				
+         tion>
+      <div class="activities">
+            <div class="gallery_product col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                <a href="img/coloring4.pdf" target="_blank"><img src="img/coloring4.jpg" class="img-responsive"></a>
+
+                <a class="btn btn-primary btn-sm AboutButtonBlue" data-toggle="modal" href="img/coloring4.pdf" target="_blank">Printable Maze</a>
             </div>
-				
-			  </div>
-			  
-			<div class="activities">
-            <div class="gallery_product col-lg-3 col-md-3 col-sm-6 col-xs-12  filter sprinkle">
-                <img src="img/1coloring.jpg" class="img-responsive">
-                 <a class="btn btn-primary btn-sm AboutButtonBlue" data-toggle="modal" data-target="#">Coloring page</a>
+        </div>
+      <div class="activities">
+            <div class="gallery_product col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                <a href="img/coloring1.pdf" target="_blank"><img src="img/1coloring.jpg" class="img-responsive"></a>
+
+
+                 <a class="btn btn-primary btn-sm AboutButtonBlue" data-toggle="modal" href="img/coloring1.pdf" target="_blank">Coloring page</a>
             </div>
-			  </div>
-			<div class="activities">
-            <div class="gallery_product col-lg-3 col-md-3 col-sm-6 col-xs-12  filter hdpe">
-                <img src="img/2coloring.jpg" class="img-responsive">
-                 <a class="btn btn-primary btn-sm AboutButtonBlue" data-toggle="modal" data-target="#">Coloring Page</a>
+        </div>
+      <div class="activities">
+            <div class="gallery_product col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                 <a href="img/coloring2.pdf" target="_blank"><img src="img/2coloring.jpg" class="img-responsive"></a>
+
+                 <a class="btn btn-primary btn-sm AboutButtonBlue" data-toggle="modal" target="_blank" href="img/coloring2.pdf">Coloring Page</a>
             </div>
-			  </div>
-			<div class="activities">
-            <div class="gallery_product col-lg-3 col-md-3 col-sm-6 col-xs-12  filter irrigation">
-                <img src="img/3coloring.jpg" class="img-responsive">
-                 <a class="btn btn-primary btn-sm AboutButtonBlue" data-toggle="modal" data-target="#">Coloring Page</a>
+        </div>
+      <div class="activities">
+            <div class="gallery_product col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                <a href="img/coloring3.pdf" target="_blank"><img src="img/3coloring.jpg" class="img-responsive"></a>
+                 <a class="btn btn-primary btn-sm AboutButtonBlue" data-toggle="modal" href="img/coloring3.pdf" target="_blank">Coloring Page</a>
             </div>
-			  </div>
+        </div>
 
           </section>
 
