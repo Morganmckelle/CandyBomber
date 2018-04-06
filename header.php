@@ -41,7 +41,7 @@ $current_page = $components[1];
                     <span class="icon-bar"></span>
                 </button>
                 <a class="navbar-brand" href="index.php">
-                    <img src="img/logo/1x/Artboard1.png" alt="Gail S. Halvorsen Aviation Education Foundation Logo"/>
+                    <img src="img/logo/1x/artboard2.png" alt="Gail S. Halvorsen Aviation Education Foundation Logo"/>
                 </a>
             </div>
         </div>

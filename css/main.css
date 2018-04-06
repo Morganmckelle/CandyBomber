@@ -50,6 +50,9 @@ div.resources p{
 div.container.nav-first-level{
 	height:150px;
 }
+div.navbar-header img{
+	padding-top:20px;
+}
 p{
     font-size: 16px;
 }
