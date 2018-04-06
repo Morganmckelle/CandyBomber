@@ -14,7 +14,7 @@
 
        </ol>-->
        <!-- Wrapper for slides -->
-		<div class="container">
+		
      <div class="carousel-inner" role="listbox">
            <div class="item active">
                <img src="img/slider/Gail-FenceFullslider.jpg" alt="Plane" class="img-responsive 1" />
@@ -35,7 +35,7 @@
             </div>
         </div>
 	  </div>
-    </div>
+    
     <!-- Main jumbotron for a primary marketing message or call to action -->
 	<button onclick="topFunction()" id="myBtn" title="Go to top"><i class="fas fa-angle-up"></i>
 
