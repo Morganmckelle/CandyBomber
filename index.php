@@ -21,8 +21,8 @@
                <div class="carousel-caption">Welcome to the Gail S. Halvorsen Aviation Education Foundation</div>
             </div>
             <div class="item">
-                <img src="img/slider/civil-air-patrol1.jpg" alt="Civil Air Patrol" class="img-responsive 2" />
-                <div class="carousel-caption">Meet our Board Members
+                <img src="img/slider/rendering.jpg" alt="Civil Air Patrol" class="img-responsive 2" />
+                <div class="carousel-caption">Learn more about the foundation
                     <a href="about_overview.php" class="btn btn-primary btn-lg">The Foundation</a>
                 </div>
 
