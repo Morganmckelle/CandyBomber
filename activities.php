@@ -20,10 +20,10 @@
 
   <div class="container">
 
-         tion>
+       
       <div class="activities">
             <div class="gallery_product col-lg-3 col-md-3 col-sm-6 col-xs-12">
-                <a href="img/coloring4.pdf" target="_blank"><img src="img/coloring4.jpg" class="img-responsive"></a>
+                <a href="img/coloring4.pdf" target="_blank"><img src="img/page4.JPG" class="img-responsive"></a>
 
                 <a class="btn btn-primary btn-sm AboutButtonBlue" data-toggle="modal" href="img/coloring4.pdf" target="_blank">Printable Maze</a>
             </div>
