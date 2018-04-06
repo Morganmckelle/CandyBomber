@@ -17,7 +17,7 @@
 		
      <div class="carousel-inner" role="listbox">
            <div class="item active">
-               <img src="img/slider/sepia-plane.png" alt="Plane" class="img-responsive 1" />
+               <img src="img/fence.jpg" alt="Plane" class="img-responsive 1" />
                <div class="carousel-caption">Welcome to the Gail S. Halvorsen Aviation Education Foundation</div>
             </div>
             <div class="item">
