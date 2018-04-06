@@ -14,7 +14,7 @@
 
        </ol>-->
        <!-- Wrapper for slides -->
-		
+		<div class="container">
      <div class="carousel-inner" role="listbox">
            <div class="item active">
                <img src="img/fence.jpg" alt="Plane" class="img-responsive 1" />
@@ -34,7 +34,7 @@
                  </div>
             </div>
         </div>
-			
+	  </div>
     </div>
     <!-- Main jumbotron for a primary marketing message or call to action -->
 	<button onclick="topFunction()" id="myBtn" title="Go to top"><i class="fas fa-angle-up"></i>
@@ -50,8 +50,8 @@
     <!-- Action Bar -->
     <div class="action-bar">
 		<div class="container">
-        <h3 class="col-md-8"> Add your own touch and buy a brick </h3>
-        <div class="col-md-2">
+        <h3 class=" col-sm-12 col-md-8"> Add your own touch and buy a brick </h3>
+        <div class="col-sm-12 col-md-2">
             <a href="contribute.php" class="btn btn-primary btn-lg">BUY A BRICK</a>
 			</div>
 			<div class="col-md-2">
@@ -111,15 +111,18 @@
                 <h2 class="col-md-12 text-center">Utah Civil Air Patrol &amp; Future Exhibit</h2>
             </div>
             <div class="row">
-                <div class="col-md-6">
+				<div class="col-md-2">
+				</div>
+                <div class=" col-sm-12 col-md-8">
                     <!--<div class="img-container">-->
-                        <img class="section-img img-responsive center-block" src="img/AviationEducationCenter.jpg" alt="Civil Air Patrol">
+					<div class="videoWrapper">
+                        <iframe  src="https://www.youtube.com/embed/eKpG3q9qGrw"    allowfullscreen></iframe>
                     <!--</div>-->
+					</div>
+					<div class="col-md-2">
+				</div>
                 </div>
-                <div class="col-md-6">
-                    <p>The proposed Gail S. Halvorsen Aviation Education Center at the Spanish Fork-Springville Airport will display memorabilia (this word can be changed) from the Candy Bomber, Gail S. Halvorsen. It will also serve as the South Utah County Headquarters for the Civil Air Patrol. 
-</p>
-                </div>
+                
 				</div>
             </div>
         </div>
