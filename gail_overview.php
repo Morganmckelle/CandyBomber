@@ -40,10 +40,10 @@
     <div class="container">
         <div class="col-md-8" style="padding: 20px 40px;">
             <h4 class="blueHeader">Overview</h4>
-			<p>Colonel Gail S. Halvorsen is the President of the Gail S. Halvorsen Aviation Education Foundation. His goal is to help educate the rising generations in the basic principles of aviation.</p>
+			<p>Colonel Gail S. Halvorsen is the President of the Gail S. Halvorsen Aviation Education Foundation. His goal is to instill in young people the principles of "service before self, attitude, gratitude, and that little things add up to big things."</p>
 			<p>Gail's Story page contains the history of Gail S. Halvorsen. Learn more about his early life, WWII, Operation Vittles, his career and his legacy.</p>
 			<p> Gail's Image Gallery contains images from Gail's life specifically. Enjoy old black and white photos from his early life as well as photos of his legacy.</p>
-			 
+			<p> For additional information please visit <a href="http://wigglywings.weebly.com/" target="_blank">www.wigglywings.weebly.com</a>
         </div>
         <div class="col-md-4">
             <div class="img-content-right-container">

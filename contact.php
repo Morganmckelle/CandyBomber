@@ -27,6 +27,8 @@
                 <input type="text" name="name" class="contactInput col-xs-12" placeholder="Who are you?">
                 <br>
                 <br>
+				 <h4>Email:</h4>
+                <input type="text" name="name" class="contactInput col-xs-12" placeholder="email@email.com"><br><br>
                 <h4>Comment:</h4>
                 <textarea type="text" name="comment" class="contactInput col-xs-12" placeholder="Add a message..." style="height:200px; resize: none; margin-bottom: 30px;"></textarea>
 

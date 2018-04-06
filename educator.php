@@ -23,7 +23,7 @@
 
           <section>
       <div class="activities">
-            <div class="gallery_product col-lg-3 col-md-3 col-sm-6 col-xs-12">
+            <div class="gallery_product col-lg-3 col-md-6 col-sm-6 col-xs-12">
                 <a href="http://howthingsfly.si.edu/sites/default/files/attachment/LighterThanAir.pdf" target="_blank"><img src="img/Educator_Resources/lighter-than-air.jpg" class="img-responsive"></a>
                 <h4>Lighter Than Air</h4>
                 <div align="left">
@@ -91,7 +91,7 @@
         <div class="container">
 
            <div class="row">
-            <h2 class="header2 text-center" style="margin: 40px auto 20px auto;" id="4-8">4 - 8</h2>
+            <h2 class="header2 text-center" style="margin: 40px auto 40px auto;" id="4-8">4 - 8</h2>
         </div>
 
           <section>
@@ -160,7 +160,7 @@
 
         <div class="container">
           <div class="row">
-            <h2 class="header2 text-center" style="margin: 40px auto 20px auto;" id="9-12">9 - 12</h2>
+            <h2 class="header2 text-center" style="margin: 40px auto 40px auto;" id="9-12">9 - 12</h2>
         </div>
 
           <section>
@@ -226,6 +226,29 @@
             </div>
         </div>
         </section>
+			<div class="row">
+            
+        </div>
+			<div class="container">
+				<h2 class="header2 text-center" style="margin: 40px auto 40px auto;" id="9-12">More Resources</h2>
+				<div class="row">
+					<div class="resources">
+					<div class="col-sm-12 col-md-4">
+						<p><a href="https://www.eaa.org/en/eaa/aviation-education-and-resources" target ="_blank">EAA</a></p><br>
+							<p><a href="https://www.wai.org/education/resources/hands-aviation-education-materials" target ="_blank">Women in Aviation</a></p><br>
+						
+						</div>
+						<div class= "col-sm-12 col-md-4">
+							
+							<p><a href="https://airandspace.si.edu/educator-resources" target ="_blank">Smithsonian National Air and Space Museum</a></p><br>
+						<p><a href="https://www.gocivilairpatrol.com/programs/aerospace-education/" target ="_blank">Civil Air Patrol Aerospace Education Program</a></p><br>
+					</div>
+						<div class="col-sm-12 col-md-4">
+							<p><a href="http://www.boeing.com/principles/education/explore-by-format.page" target ="_blank">Boeing</a></p><br>
+							<p><a href="https://www.nasa.gov/offices/education/about/index.html" target ="_blank">NASA </a></p><br>
+						</div>
+				</div>
+			</div>
         </div>
         </div>
         </div>

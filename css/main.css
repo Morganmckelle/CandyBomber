@@ -44,6 +44,9 @@ padding-right: 0px;
     margin-right: auto;
     margin-left: auto;
 }
+div.resources p{
+	text-align:center;
+}
 
 p{
     font-size: 16px;
@@ -296,6 +299,14 @@ button.gallery {
 }
 div.gallery_product {
     padding-bottom: 30px;
+	padding-top:30px;
+}
+div.gallery_product h4{
+	color:#00A0E6;
+	font-weight:bold;
+}
+div.gallery_product p{
+	text-align:center;
 }
 .mission{
 	text-align:center;
@@ -550,6 +561,11 @@ div.sub-section .mainpage p{
 
 .board-members-img-text p{
     text-align: center;
+}
+.board-members-img-text small a{
+    text-align: center;
+	color:white;
+	text-decoration:none;
 }
 
 

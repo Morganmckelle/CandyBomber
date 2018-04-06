@@ -18,8 +18,8 @@
 		<div class="titlespacing">
         <div class="row">
 			
-            <h4 class="col-md-2 blueHeader text-center board-members-header-left">James R. Stewart, DO, MPH</h4>
-            <div class="col-md-10 content-line"></div>
+            <h4 class="col-md-3 blueHeader text-center board-members-header-left">James R. Stewart, DO, MPH</h4>
+            <div class="col-md-9 content-line"></div>
 			</div>
         </div>
 		<div class="sectionspacing">
@@ -30,22 +30,23 @@
                     <div class="board-members-img-text">
                         <p>EXECUTIVE DIRECTOR<br>
                         Colonel, US Air Force (Retired)<br>
-                        Physician, Intermountain Healthcare</p>
+                        Physician, Intermountain Healthcare<br>
+							<small>Email: <a href="mailto:DocStew@thecandybomber.org">DocStew@thecandybomber.org</a></p>
                     </div>
                 </div>
             </div>
             <div class="col-md-8 board-members-text" style="float: left">
                 <p class="board-text"> Jim is the Executive Director of the Foundation. He attended Brigham Young University studying business management and microbiology prior to attending medical school at A. T. Still University in Missouri.</p>
                 <p> During his 26-year career in the US Air Force, he gained board certification in family medicine, aerospace medicine, and disaster medicine, and holds a Master of Public Health from the University of Texas focusing on National Health Policy. He was a founding board member of the American Academy of Disaster Medicine, and has held executive positions in three other medical societies.</p>
-                <p>Dr. Stewart is a graduate of the USAF Air War College, and is a recipient of the General Douglas MacArthur Leadership Award. He is currently employed by Intermountain Healthcare in Provo. Dr. Stewart is a Commercial pilot, and is a volunteer in the Civil Air Patrol serving as a Search & Rescue Mission Pilot. He has a passion for aviation safety and US History. He and his wife Margie have been married for 39 years, and have five married children and eleven grandchildren.
+                <p>Dr. Stewart is a graduate of the USAF Air War College, and is a recipient of the General Douglas MacArthur Leadership Award. He is currently employed by Intermountain Healthcare in Provo. Dr. Stewart is a Commercial pilot, and is a volunteer in the Civil Air Patrol serving as a Search &amp; Rescue Mission Pilot. He has a passion for aviation safety and US History. He and his wife Margie have been married for 39 years, and have five married children and eleven grandchildren.
                 </p>
             </div>
         </div>
 		</div>
         <div class="titlespacing">
             <div class="row">
-                <h4 class="col-md-2 blueHeader text-center text-center board-members-header-left">Colonel Gail S. Halvorsen</h4>
-            <div class="col-md-10 content-line"></div>
+                <h4 class="col-md-3 blueHeader text-center text-center board-members-header-left">Colonel Gail S. Halvorsen</h4>
+            <div class="col-md-9 content-line"></div>
         </div>
 		</div>
 		<div class="sectionspacing">
@@ -62,9 +63,9 @@
             </div>
 		
             <div class="col-md-8 board-members-text" style="float: right">
-                <p class="board-text"> Gail is the Honorary Director of the Foundation. He was born in Salt Lake City, Utah, and grew up on small farms in Utah and Idaho. He earned a private pilot license under the non-college Civilian Pilot Training Program in September 1941. Almost concurrently Gail joined the Civil Air Patrol as a pilot.</p>
-                <p> He joined the United States Army Air Corps in June 1942. After WW-II he flew in the Berlin Airlift where he became known as, Berlin Candy Bomber. He received Bachelor and Master’s Degrees in Aeronautical Engineering at Florida State University, and held many key positions in Research and Development in the USAF Space Program.</p>
-                <p> Colonel Halvorsen capped his USAF career as the Commander of Tempelhof Central Airport in Berlin and as the United States Air Force Representative to the city of Berlin. After retirement, he served as the Assistant Dean of Student Life at Brigham Young University. He and his late wife, Alta Jolley of Zion National Park, have five children, 24 grandchildren, and over 30 great-grandchildren.
+                <p class="board-text"> Gail is the Honorary Director of the Foundation. He was born in Salt Lake City, Utah, and grew up on small farms in Utah and Idaho. He earned a private pilot license under the non-college Civilian Pilot Training Program in September 1941. Shortly after the attack on Pearl Harbor in December 1941, Gail was one of the first pilots in Utah to join the Civil Air Patrol.</p>
+                <p> He joined the United States Army Air Corps in June 1942. In 1944 Gail earned his wings with the Royal Air Force (RAF) and US Army Air Corp and flew cargo during the war. In 1948 after WW-II, he flew in the Berlin Airlift where he became known as, Berlin Candy Bomber. He received Bachelor and Master’s Degrees in Aeronautical Engineering at Florida State University, and held many key positions in Research and Development in the USAF Space Program.</p>
+                <p> Colonel Halvorsen capped his USAF career as the Commander of Tempelhof Central Airport in Berlin and as the United States Air Force Representative to the city of Berlin. After retirement, he served as the Assistant Dean of Student Life at Brigham Young University. He and his late wife, Alta Jolley of Zion National Park, have five children, 24 grandchildren, and 53 great-grandchildren.  He is married to Lorraine Pace of Green Valley, AZ.
                 </p>
             </div>
         </div>
@@ -89,7 +90,7 @@
                 </div>
             </div>
             <div class="col-md-8 board-members-text" style="float: left">
-                <p class="board-text">Paul is the Assistant Executive Director of the Foundation. He attended Brigham Young University earning a Bachelor degree in Business and Finance. He has owned his own businesses since 1975 in retail sales, computers, and marketing. Paul is a Commercial Pilot, and is a volunteer in the Civil Air Patrol serving as a Search & Rescue Pilot and Operations Officer. He and his wife Cheryl have eight children and twelve grandchildren.
+                <p class="board-text">Paul is the Assistant Executive Director of the Foundation. He attended Brigham Young University earning a Bachelor degree in Business and Finance. He has owned his own businesses since 1975 in retail sales, computers, and marketing. Paul is a Commercial Pilot, and is a volunteer in the Civil Air Patrol serving as a Search &amp; Rescue Pilot and Operations Officer. He and his wife Cheryl have eight children and twelve grandchildren.
                 </p>
             </div>
         </div>
@@ -107,8 +108,7 @@
                     <img class="img-responsive center-block" src="img/board_members/Becca.jpg">
                     <div class="board-members-img-text">
                         <p>SECRETARY<br>
-                            Manager<br>
-                            Back On Track Chiropractic</p>
+                            Photographer and Graphic Designer at<br> The Photo Shop</p>
                     </div>
                 </div>
             </div>
@@ -121,8 +121,8 @@
 		
 		<div class="titlespacing">
         <div class="row">
-            <h4 class="col-md-2 blueHeader text-center board-members-header-left">Edward S. Hunt, CPA</h4>
-            <div class="col-md-10 content-line"></div>
+            <h4 class="col-md-3 blueHeader text-center board-members-header-left">Edward S. Hunt, CPA</h4>
+            <div class="col-md-9 content-line"></div>
         </div>
 		</div>
 		<div class="sectionspacing">
@@ -144,8 +144,8 @@
 		</div>
 		<div class="titlespacing">
         <div class="row">
-            <h4 class="col-md-2 blueHeader text-center board-members-header-left">Denise Halvorsen Williams</h4>
-            <div class="col-md-10 content-line"></div>
+            <h4 class="col-md-3 blueHeader text-center board-members-header-left">Denise Halvorsen Williams</h4>
+            <div class="col-md-9 content-line"></div>
         </div>
 		</div>
 		<div class="sectionspacing">
@@ -159,17 +159,17 @@
                 </div>
             </div>
             <div class="col-md-8 board-members-text" style="float: right">
-                <p class="board-text"> Denise is a daughter of Gail and Alta Halvorsen. While living in Berlin, Denise studied German at the Goethe Institut and music at the Berlin Hochschule für Musik. She earned a Bachelor of Music degree in Piano Pedagogy and a Master of Arts in Humanities at Brigham Young University. As a Certified Professional Piano teacher, she has taught music and piano in schools and in her home studio for 49 years.</p>
-                <p> In 2015, she received the MusicLink Teacher of Distinction Award. For the past four years, she has worked on her father's collection in the L. Tom Perry Special Collections at BYU's Harold B. Lee Library. She has written about many topics, including several family histories. With her father she recently co-authored The Candy Bomber: Untold Stories of the Berlin Airlift's Uncle Wiggly Wings.</p>
-                <p> Denise enjoys being with her family, hiking and skiing, making music and doing family history. She and her husband, David D. Williams, have six children and 21grandchildren. They currently live in Utah.
+                <p class="board-text"> Denise is a daughter of Gail and Alta Halvorsen. While living in Berlin, Denise studied German at the Goethe Institut and music at the Berlin Hochschule für Musik. She earned a Bachelor of Music degree in Piano Pedagogy and a Master of Arts in Humanities at Brigham Young University. As a Certified Professional Piano teacher, she has taught music and piano in schools and in her home studio for 50 years.</p>
+				<p> For the past five years, she has worked on her father's collection in the L. Tom Perry Special Collections at BYU's Harold B. Lee Library and writes about many topics, including several family histories. With her father she recently co-authored <i> The Candy Bomber: Untold Stories of the Berlin Airlift's Uncle Wiggly Wings. </i>
                 </p>
+				<p>She and her husband, David D. Williams, have six children and 21 grandchildren. They currently live in Utah.</p>
             </div>
         </div>
 		</div>
 		<div class="titlespacing">
         <div class="row">
-            <h4 class="col-md-2 blueHeader text-center board-members-header-left">Robert Freeman, PhD</h4>
-            <div class="col-md-10 content-line"></div>
+            <h4 class="col-md-3 blueHeader text-center board-members-header-left">Robert Freeman, JD</h4>
+            <div class="col-md-9 content-line"></div>
         </div>
 		</div>
 		<div class="sectionspacing">
@@ -194,8 +194,8 @@
 		</div>
 		<div class="titlespacing">
         <div class="row">
-            <h4 class="col-md-2 blueHeader text-center board-members-header-left">Angela Davidson</h4>
-            <div class="col-md-10 content-line"></div>
+            <h4 class="col-md-3 blueHeader text-center board-members-header-left">Angela Davidson</h4>
+            <div class="col-md-9 content-line"></div>
         </div>
 		</div>
 		<div class="sectionspacing">
@@ -204,12 +204,14 @@
                 <div class="img-container">
                     <img class="img-responsive center-block" src="img/board_members/angela.jpg">
                     <div class="board-members-img-text">
-                        <p>No Info</p>
+                        <p>
+Community Relations<br> Events and Fundraising
+American Fork, UT</p>
                     </div>
                 </div>
             </div>
             <div class="col-md-8 board-members-text" style="float: right">
-                <p class="board-text">No Info</p>
+                <p class="board-text">Angela loves serving as our Community Relations, Events and Fundraising Director. Angela is passionate about people, Gail, and the mission of our foundation. She wants Gail to be here for the Aviation Center groundbreaking AND dedication. Previously, Angela worked as the Community Relations and Events Director for a K-12 private school. Her work also included fundraising for new construction and producing large events. Angela is grateful for the opportunity to work with the other members of the board, and to share Gail's message:  "Service makes you happy!". Angela cherishes her time with her family, that includes her husband and two boys, ages 5 and 10, who both want to be astronauts. </p>
             </div>
         </div>
 

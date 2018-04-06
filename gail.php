@@ -121,8 +121,7 @@
         <div class=" aboutsectionbody">
           <p>While stationed in Germany, Halvorsen spent much of his free time filming the countryside on his personal handheld movie camera. While filming at Tempelhof, the main landing site for the airlift, Halvorsen noticed a group of roughly thirty children crowded behind one of the barbed-wire fences. Halvorsen recalls, "I met about thirty children at the barbed wire fence that protected Tempelhof's huge area. They were excited and told me that 'when the weather gets so bad that you can't land, don't worry about us. We can get by on a little food, but if we lose our freedom, we may never get it back.'"</p>
 
-          <p>Halvorsen was touched by their maturity and value of freedom. He pulled two sticks of 
-          Wrigley Double-Mint gum from his pocket and gave it to the children. They broke it into tiny pieces and shared it-those who did not get any sniffed the wrappers. Halvorsen wished he had more to give and told the children the following day he would bring enough gum for all of them. He said he would drop the gum from his plane and told the children they would know it was his plane because he would wiggle his wings, a trick he had performed for his parents in summer of 1941 when he flew over his family's farm.
+          <p>Halvorsen was touched by their maturity and value of freedom. He pulled two sticks of Wrigley Double-Mint gum from his pocket and gave it to the children. They broke it into tiny pieces and shared it-those who did not get any sniffed the wrappers. Halvorsen wished he had more to give and told the children the following day he would bring enough gum for all of them. He said he would drop the gum from his plane and told the children they would know it was his plane because he would wiggle his wings, a trick he had performed for his parents in summer of 1941 when he flew over his family's farm.
           </p>
 
           <p>Halvorsen used his ration card to buy all of the candy, chocolate and gum he could and then convinced his copilot and engineer to also give their rations. Prepared with a "big, double handful" of goodies, Halvorsen became concerned the children could be injured by the candy falling at 110 miles per hour, so he made three parachutes out of handkerchiefs and tied them to the candy to slow its descent. The next day when Halvorsen took off on his supply run he could see the group of children eagerly waiting. The engineer pushed the candy parachutes out and successfully dropped them to the kids. The children shared the treats and happily grinned as they waved to all the aircraft. Halvorsen and his crew were touched by the children's happiness and decided to include the candy parachutes in their regular supply drops. They made the candy drops once a week for the following three weeks and each time the crowd of children grew larger. </p>    
@@ -150,14 +149,15 @@
                 <p class="board-text">In January 1949, Halvorsen returned home to the United States and was offered a permanent commission with full pay and the opportunity to have the Air Force pay for his continued education. Halvorsen attended the University of Florida as an assignment from the Air Force Institute of Technology and received his bachelor's and master's degrees in Aeronautical Engineering in 1951 and 1952. In 1973, he received a master's degree in Guidance and Counseling from Wayne State University through an on-base educational program.</p>
 
           <ul>
-            <li>1952 to 1957: Halvorsen served as the project engineer for cargo aircraft research and development with the Wright Air Development Center at Wright-Patterson Air Force Base and Hill Air Force Base. </li>
-            <li>1957-58: Air Command and Staff College at Maxwell AFB, Alabama.</li>
-            <li>1958-62: Air Force Space Systems Division of Air Force Systems Command in Inglewood, California. Halvorsen developed various space projects while on this assignment including the Titan III launch vehicle program.</li>
+            <li>1952-1957: Halvorsen served as the project engineer for cargo aircraft research and development with the Wright Air Development Center at Wright-Patterson Air Force Base and Hill Air Force Base. </li>
+            <li>1957-1958: Air Command and Staff College at Maxwell AFB, Alabama.</li>
+            <li>1958-1962: Air Force Space Systems Division of Air Force Systems Command in Inglewood, California. Halvorsen developed various space projects while on this assignment including the Titan III launch vehicle program.</li>
             <li>1962-65: Foreign Technology division of AF Systems Command in Wiesbaden, West Germany</li>
             <li>1965-1967: 6596th Instrumentation Squadron</li>
-            <li>1970-74: Commander of Templehof Air Base, Germany</li>
+			  <li>1968-1970: Commander of the Vandenberg AFB Satellite Tracking Station</li>
+            <li>1970-1974: Commander of Templehof Air Base, Germany</li>
             <li>Halvorsen retired from the military in 1974 after 31 years of service and more than 8,000 hours of flying time.</li>
-            <li>1976-86: Assistant Dean of Student Life at Brigham Young University, Provo, Utah.</li>
+            <li>1976-1986: Assistant Dean of Student Life at Brigham Young University, Provo, Utah.</li>
           </ul>
                 </p>
             </div>
@@ -218,7 +218,7 @@
                 </div>
             </div>
             <div class="col-md-8 board-members-text" style="float: left">
-				<p class="board-text">On April 16, 1949 Halvorsen married Alta Jolley, his college sweetheart, in Las Vegas, Nevada. They had originally met while attending Utah State University in 1942 and maintained correspondence through mail while Halvorsen was serving abroad. The couple had five children, 24 grandchildren and 32 great grandchildren. Alta died in 1999, just shy of the couple's fiftieth wedding anniversary. Halvorsen later remarried his high school steady, Lorraine Pace, who has three children. They primarily reside in Spanish Fork, Utah and spend winters in Arizona. </p></div>
+				<p class="board-text">On April 16, 1949 Halvorsen married Alta Jolley, his college sweetheart, in Las Vegas, Nevada. They had originally met while attending Utah State University in 1942 and maintained correspondence through mail while Halvorsen was serving abroad. The couple had five children, 24 grandchildren and 53 great grandchildren. Alta died in 1999, just shy of the couple's fiftieth wedding anniversary. Halvorsen later married his high school steady, Lorraine Pace, who has three children. </p></div>
 			</div>
 		</div>
 </div>

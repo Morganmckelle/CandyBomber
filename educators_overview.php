@@ -21,8 +21,10 @@
         <div class="col-md-8" style="padding: 20px 40px;">
             <h4 class="blueHeader">Overview</h4>
 			<p>The Gail S. Halvorsen Aviation Education Foundation aims to help students become more involved in Science, Technology, Engineering and Math fields. This goal starts with helping educators find quality lesson plans and activities to increase interest in these fields.</p>
-			<p>The STEM Activities page includes lesson plans and supplemental activities to help educators in the classroom. These activities range from kindergarten to Highschool levels. </p>
+			<p>The STEM Activities page includes lesson plans and supplemental activities to help educators in the classroom. These activities range from kindergarten to Highschool levels. The STEM Activities page also includes a list of alternate websites with additional resources for educators. </p>
 			<p>The Aviation Cookbook was created by UVU students and teaches the basic principles of aviation. These videos also include the pdf version of the activity.</p>
+			<p>Civil Air Patrol also offers educational resources for Aerospace Education Members. If you are interested in becoming an Aerospace Educator Member, please visit <a href="https://www.gocivilairpatrol.com/programs/aerospace-education/" target="_blank">Civil Air Patrol's Aerospace Education Page</a>.
+			
         </div>
         <div class="col-md-4">
             <div class="img-content-right-container">

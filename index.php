@@ -87,7 +87,7 @@
 
             </div>
             <div class="col-md-4 quicklinksection">
-                <img class="img-responsive center-block" src="img/civil-air-patrol.jpg">
+                <img class="img-responsive center-block" src="img/AviationEducationCenter.jpg">
 				<h4 class="quickh3"><strong><a href="about_overview.php">The Foundation</a></strong></h4>
                 <p>We are grateful to all who donate to the foundation. Please visit our support page for more information on our sponsors and how to donate to the foundation.</p>
 
@@ -113,11 +113,12 @@
             <div class="row">
                 <div class="col-md-6">
                     <!--<div class="img-container">-->
-                        <img class="section-img img-responsive center-block" src="img/civil-air-patrol.jpg" alt="Civil Air Patrol">
+                        <img class="section-img img-responsive center-block" src="img/AviationEducationCenter.jpg" alt="Civil Air Patrol">
                     <!--</div>-->
                 </div>
                 <div class="col-md-6">
-                    <p>The proposed Gail S. Halvorsen Aviation Education Center at the Spanish Fork – Springville Airport will exhibit and archive Gail Halverson’s personal photographs documents and memorabilia. It will also serve as the South Utah County Headquarters for the Civil Air Patrol.The proposed Gail S. Halvorsen Aviation Education Center at the Spanish Fork – Springville Airport will exhibit and archive Gail Halverson’s personal photographs documents and memorabilia. It will also serve as the South Utah County Headquarters for the Civil Air Patrol.</p>
+                    <p>The proposed Gail S. Halvorsen Aviation Education Center at the Spanish Fork-Springville Airport will display memorabilia (this word can be changed) from the Candy Bomber, Gail S. Halvorsen. It will also serve as the South Utah County Headquarters for the Civil Air Patrol. 
+</p>
                 </div>
 				</div>
             </div>

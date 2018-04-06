@@ -12,14 +12,14 @@
 
 
   <div class="container"> 
-   <div class="aboutsections">
+   <div class="aboutsections events">
    
           <div class="row">
             <br><br>
              <h2>Upcoming Events</h2>
             <div class="col-md-5">
           
-        <h3>Ground Breaking  -  May 5, 2018</h3>
+        <h3>KickOff Celebration!  -  May 5, 2018 at 11:00am</h3>
         </div>
         <div class="col-md-7 content-line"></div>
        
@@ -35,10 +35,7 @@
         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
         <br>
 
-          <p>The Gail S. Halvorsen Aviation Education Center at the Spanish Fork - Springville Airport
-            will exhibit and archive Gail Halvorsen's personal photographs, documents and memorabillia. It will
-           serve as the South Utah County Headquarters for the Civil Air Patrol. The Gail S. Halvorsen Aviation
-            Education Center will also assist the community in disaster prepardness planning and provide the opportunity for staging an emergency response center.</p>
+          <p>The Gail S. Halvorsen Aviation Education Center at the Spanish Fork - Springville Airport will serve as the South Utah County Headquarters for the Civil Air Patrol. The Gail S. Halvorsen Aviation Education Center will also assist the community in disaster preparedness planning and provide the opportunity for staging an emergency response center.</p>
 
           </div>
         
@@ -47,13 +44,13 @@
   </div>
 
  <div class="container"> 
-    <div class="aboutsections">
+    <div class="aboutsections events">
         <h2>Past Events</h2>
           <div class="row">
-            <div class="col-md-5">
+            <div class="col-md-2">
         <h3>"The Candy Bomber" Gala <br> September 22, 2017</h3>
         </div>
-        <div class="col-md-7 content-line"></div>
+        <div class="col-md-10 content-line"></div>
        
       </div>            
 <div class="about">
@@ -77,12 +74,12 @@
     </div>
 </div>
 <div class="container">
-    <div class="aboutsections">
+    <div class="aboutsections events">
           <div class="row">
-            <div class="col-md-5">
+            <div class="col-md-2">
         <h3>Day of Simple Service  -  October 10, 2016</h3>
         </div>
-        <div class="col-md-7 content-line"></div>
+        <div class="col-md-10 content-line"></div>
       </div>            
 <div class="about">
       <div class="row">
