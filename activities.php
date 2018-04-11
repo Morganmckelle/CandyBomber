@@ -19,7 +19,15 @@
  
 
   <div class="container">
+<div class="row">
+	<div class="gallery_product col-lg-12">
+		<div class="game">
+                <a href="game/index.php" target="_blank"><img src="img/gamesmall.jpg" class="img-responsive"></a>
 
+                <a class="btn btn-primary btn-sm AboutButtonBlue" href="game/index.php" target="_blank">Play!</a>
+		</div>
+            </div>
+	  </div>
        
       <div class="activities">
             <div class="gallery_product col-lg-3 col-md-3 col-sm-6 col-xs-12">

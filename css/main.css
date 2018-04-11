@@ -48,10 +48,10 @@ div.resources p{
 	text-align:center;
 }
 div.container.nav-first-level{
-	height:150px;
+	height:130px;
 }
 div.navbar-header img{
-	padding-top:20px;
+	padding-top:10px;
 }
 p{
     font-size: 16px;
@@ -59,7 +59,18 @@ p{
 div.banner{
 	height:400px;
 }
-
+div.game{
+	margin:0 auto;
+	text-align:center;
+}
+div.gallery_product.col-lg-12{
+	padding-top:0px;
+}
+div.game img{
+	margin:0 auto;
+	padding-bottom:10px;
+	padding-top:0px;
+}
 div.img-banner-container{
     width: 100%;
     max-height: 400px;
