@@ -32,13 +32,13 @@
 		<br><br><br><br><br>
 		<center>
 			<h1>
-				Welcome to Candy Bomber!
+				Welcome to Candy Drop!
 			</h1>
 			<h2>
 				Controlls:
 			</h2>			
 			Move the <b><span style="color:blue">MOUSE</span></b> to move your plane to a different location.<br>
-			Press <b><span style="color:blue">SPACEBAR</span></b> to drop candy you've colleted to children.<br>
+			Press <b><span style="color:blue">SPACEBAR</span></b> to drop candy you've collected to children.<br>
 			<h2> Objective:</h2>
 			Get the highest <span class="scoreT_value_display">score</span> possible!
 			
