@@ -35,7 +35,7 @@
 				Welcome to Candy Drop!
 			</h1>
 			<h2>
-				Controlls:
+				Controls:
 			</h2>			
 			Move the <b><span style="color:blue">MOUSE</span></b> to move your plane to a different location.<br>
 			Press <b><span style="color:blue">SPACEBAR</span></b> to drop candy you've collected to children.<br>
