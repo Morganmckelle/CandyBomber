@@ -4,7 +4,7 @@
 		<style>
 			body{
 				background: white;
-				background-image: url('images/greySky.png');
+				background-image: url('images/background.png');
 				text-shadow: 1px 1px 2px white, -1px -1px 2px silver;
 			}
 			canvas {
