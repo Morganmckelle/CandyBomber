@@ -46,7 +46,7 @@
 			Don't get hit by other planes! <img style="height: 15px;" src="images/e-plane.png"><br>
 			Collect candy to increase your planes <span class="speedT_value_display">speed</span>. <img style="height: 15px;" src="images/candy_pickup.png"><br>			
 			Survive as long as you can to increase your <span class="scoreT_value_display">score</span>.<br>
-			Deliver candy to kids using spacebar to increase your <span class="scoreT_value_display">score</span> and <span class="speedT_value_display">speed</span>. <img style="height: 15px;" src="images/candy_parachute.png"><img style="height: 15px;" src="images/kids.png"><br>
+			Deliver candy to kids using spacebar from <font color="red">halfway up</font> on the screen <font color="red">or higher</font> to increase your <span class="scoreT_value_display">score</span> and <span class="speedT_value_display">speed</span>. <img style="height: 15px;" src="images/candy_parachute.png"><img style="height: 15px;" src="images/kids.png"><br>
 			
 			<br><br>
 			<a href="candy_bomber.html"><button style="font-size: 34px; border-radius: 10px; border-style: outset; border-color: purple; background-color: cyan; background: linear-gradient(to right, green , cyan); color:white; cursor: pointer;">Play!</button></a>
@@ -58,7 +58,7 @@
 		<canvas id="player" style="z-index: 98;"></canvas>
 		<canvas id="game-canvas" style="z-index: 90;"></canvas>
 
-		<script src="jquery.min.js"></script>
+		<script src="jquery.min.js"></script>		
 
 		<img id="plane" style="display: none;" src="images/plane.png">
 	</body>
