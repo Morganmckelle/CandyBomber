@@ -34,6 +34,13 @@ if(empty($tscores) || !is_array($tscores)){
 array_unshift($tscores, ["initials"=>$user_initials, "score"=>$user_score, "date"=>date('M d h:i:s T')]);
 
 foreach($tscores as $key => $row){
+	if (strstr($row['date'],date('M')) === false)
+	{
+		unset($tscores[$key]);
+	}
+}
+
+foreach($tscores as $key => $row){
 	$score[$key] = $row['score'];
 }
 array_multisort($score, SORT_DESC, $tscores);
