@@ -11,17 +11,19 @@
    
 
 
-  <div class="container"> 
-   <div class="aboutsections events">
+ <div class="container"> 
+   <div class="aboutsections">
    
           <div class="row">
+    
             <br><br>
              <div class="col-sm-12">
                     <h2 class="header2">Upcoming Events</h2>
                 </div>
+           
             <div class="col-md-5">
           
-        <h3>KickOff Celebration!  -  May 5, 2018 at 11:00am</h3>
+        <h3>Ground Breaking  -  May 5, 2018</h3>
         </div>
         <div class="col-md-7 content-line"></div>
        
@@ -46,8 +48,9 @@
   </div>
 
  <div class="container"> 
-    <div class="aboutsections events">
-       <div class="col-sm-12">
+    <div class="aboutsections">
+          <div class="row">
+             <div class="col-sm-12">
                     <h2 class="header2">Past Events</h2>
                 </div>
           <div class="row">
