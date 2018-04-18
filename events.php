@@ -16,7 +16,9 @@
    
           <div class="row">
             <br><br>
-             <h2>Upcoming Events</h2>
+             <div class="col-sm-12">
+                    <h2 class="header2">Upcoming Events</h2>
+                </div>
             <div class="col-md-5">
           
         <h3>KickOff Celebration!  -  May 5, 2018 at 11:00am</h3>
@@ -45,7 +47,9 @@
 
  <div class="container"> 
     <div class="aboutsections events">
-        <h2>Past Events</h2>
+       <div class="col-sm-12">
+                    <h2 class="header2">Past Events</h2>
+                </div>
           <div class="row">
             <div class="col-md-2">
         <h3>"The Candy Bomber" Gala <br> September 22, 2017</h3>
