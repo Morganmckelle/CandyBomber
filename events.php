@@ -10,8 +10,8 @@
 </button>
    
 
+<div class="container">
 
- <div class="container"> 
    <div class="aboutsections">
    
           <div class="row">
@@ -47,7 +47,7 @@
     </div>
   </div>
 
- <div class="container"> 
+
     <div class="aboutsections">
           <div class="row">
              <div class="col-sm-12">
@@ -80,7 +80,9 @@
       </div>
     </div>
 </div>
-<div class="container">
+		</div>
+	
+
     <div class="aboutsections events">
           <div class="row">
             <div class="col-md-5">
@@ -102,15 +104,12 @@
           <p>Particpants celebrated Gail Halvorsen's 96th birthday by performing simple acts of service for strangers. 
            Halvorsen has dedicated his life to the service of others and believes “service before self is the only way to fulfillment in life.”
             This inspiring event uplifted participants and recipients alike.</p>
-
-          </div>
-        
+		  </div>
       </div>
     </div>
   </div>
 
-</div>
-</div>
 
+	 
 </div>
 <?php require_once('footer.php'); ?>
