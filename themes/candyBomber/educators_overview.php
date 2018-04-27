@@ -62,7 +62,7 @@
 						<h3 class="text-center"><strong>Aviation Cookbook Videos</strong></h3>
                         <p>The Aviation Cookbook Video series was created by a team of UVU students to teach basic principles of aviation through fun, enriching activities. </p>
 						<div class="buttoncenter">
-						<a href="education_video.php"class="btn btn-primary btn-sm AboutButton">More...</a>
+						<a href="education_video.php" class="btn btn-primary btn-sm AboutButton">More...</a>
 						</div>
                     </div>
                 </div>

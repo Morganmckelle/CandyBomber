@@ -2,12 +2,12 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
-      <webServer id="c6504114-864b-411d-92ae-fa16b81eadb6" name="wordpress_candyBomber" url="http://thecandybomber.mojodesignworks.com">
-        <fileTransfer host="thecandybomber.mojodesignworks.com" port="21" rootFolder="/public_html/thecandybomber">
+      <webServer id="1872859d-48ad-4931-81e1-2b95fa7b0332" name="New Wordpress Candy Bomber" url="http://thecandybomber.org">
+        <fileTransfer host="thecandybomber.org" port="22" rootFolder="/home/gsh_bzwp65/new.thecandybomber.org/wp-content" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="21" />
+          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
     </option>

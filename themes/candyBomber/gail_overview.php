@@ -83,7 +83,7 @@
                         <p>Browse through photos of Gail throughout his life.</p>
 						<br><br>
 						<div class="buttoncenter">
-						<a href="gallery.php"class="btn btn-primary btn-sm AboutButton">More...</a>
+						<a href="gallery.php" class="btn btn-primary btn-sm AboutButton">More...</a>
 						</div>
 						<hr class="content-line">
                     </div>
@@ -97,7 +97,7 @@
                         <p>View different videos created about Gail S. Halvorsen and different events he has been apart of.</p>
 						<br>
 						<div class="buttoncenter">
-						<a href="gails_videos.php"class="btn btn-primary btn-sm AboutButton">More...</a>
+						<a href="gails_videos.php" class="btn btn-primary btn-sm AboutButton">More...</a>
 						</div>
 						<hr class="content-line">
                     </div>
@@ -112,7 +112,7 @@
                         <p>Come Play our Candy Drop game or print off coloring pages.</p>
 						<br><br>
 						<div class="buttoncenter">
-						<a href="activities.php"class="btn btn-primary btn-sm AboutButton">More...</a>
+						<a href="activities.php" class="btn btn-primary btn-sm AboutButton">More...</a>
 						</div>
                     </div>
                 </div>

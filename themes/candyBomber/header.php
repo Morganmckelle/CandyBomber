@@ -2,7 +2,7 @@
 $directoryURI = $_SERVER['REQUEST_URI'];
 $path = parse_url($directoryURI, PHP_URL_PATH);
 $components = explode('/', $path);
-$current_page = $components[1];
+$current_page = $components[3];
 ?>
 
 <!doctype html>
@@ -10,26 +10,36 @@ $current_page = $components[1];
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title></title>
+        <title>Candy Bomber <?php wp_title(); ?></title>
 
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-		<link type="image/png" rel="icon" href="img/logo/favicon.png" >
-        <link rel="stylesheet" href="css/bootstrap.min.css">
-        <link rel="stylesheet" href="css/bootstrap-theme.min.css">
-        <link rel="stylesheet" href="css/main.css">
-		<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
-		
+		<link type="image/png" rel="icon" href="<?php echo get_template_directory_uri(); ?>/img/logo/favicon.png" >
+        <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/bootstrap.min.css">
+        <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/bootstrap-theme.min.css">
+        <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/main.css">
+        <link rel="stylesheet" href="style.css">
+		<link href="https://fonts.goos.com/css?family=Open+Sans" rel="stylesheet">
+
         <script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
-		
-        <script src="js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
-		<script src="js/top.js"></script>
+
+        <script src="<?php echo get_template_directory_uri(); ?>/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+		<script src="<?php echo get_template_directory_uri(); ?>/js/top.js"></script>
+
+        <?php wp_head(); ?>
+
+        <?php remove_filter( 'the_content','wpautop' );?>
+
     </head>
     <body>
 
 
 <!--------- NAVIGATION- -------->
-    <nav class="navbar navbar-default">
+
+    <?php wp_nav_menu(); ?>
+
+    This is the old header
+    <nav class="navbar navbar-default primary-nav">
 		<div class="container">
         <div class="container nav-first-level">
             <!-- Brand and toggle get grouped for better mobile display -->
@@ -41,7 +51,7 @@ $current_page = $components[1];
                     <span class="icon-bar"></span>
                 </button>
                 <a class="navbar-brand" href="index.php">
-                    <img src="img/logo/1x/artboard2.png" alt="Gail S. Halvorsen Aviation Education Foundation Logo"/>
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/logo/1x/artboard2.png" alt="Gail S. Halvorsen Aviation Education Foundation Logo"/>
                 </a>
             </div>
         </div>
