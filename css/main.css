@@ -190,6 +190,8 @@ div.aboutsections h3{
 
 .header2{
     color: #95989A;
+	text-align:center;
+	margin-bottom:50px;
 }
 
 
@@ -687,7 +689,7 @@ footer div.contact-items{
 
 footer div.contact-items a{
     color: white;
-    font-size: 12px;
+    font-size: 11px;
 }
 footer div.contact-items a:hover{
     color: #00A0E6;

@@ -16,7 +16,7 @@
    
           <div class="row">
     
-            <br><br>
+            
              <div class="col-sm-12">
                     <h2 class="header2">Upcoming Events</h2>
                 </div>
