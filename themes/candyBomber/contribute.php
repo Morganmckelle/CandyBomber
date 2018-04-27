@@ -19,7 +19,7 @@
     </div>
 	<div class="container" style="padding: 0 60px;">
 		<div class="col-sm-12">
-            <h3 class="blueHeader text-center">Donate to help the foundation take flight</h4>
+            <h3 class="blueHeader text-center">Donate to help the foundation take flight</h3>
             <!--<p>Donate to help the foundation take flight</p>-->
             
             
@@ -34,7 +34,7 @@
             </div>
 		
 		<div class="col-sm-12">
-            <h3 class="blueHeader text-center">Add your own touch and Buy a Brick</h4>
+            <h3 class="blueHeader text-center">Add your own touch and Buy a Brick</h3>
 		</div>
 		<p>
             Place your name in a place of honor and help build the Gail S. Halvorsen Aviation Education Center at the Spanish Fork-Springville Airport</p>
